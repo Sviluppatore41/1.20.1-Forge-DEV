@@ -23,3 +23,9 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         https://github.com/IgnoreLicensesCN/OpenTC4
         https://gregtech.overminddl1.com/downloads/
         https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/all?page=1&pageSize=20&showAlphaFiles=show
+
+
+
+
+
+Class'*- https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html

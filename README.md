@@ -8,8 +8,8 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         ├── Not Enough Machines FE            │ ├─                     │
         ├──ReactorStuff                       │ ├─                     │
         ├──LevelStorage                       │ ├─                     │
-        ├──                                   │ ├─                     │
-        └──                                   │ ├─                     │
+        ├──​​ChargePads                         │ ├─                     │
+        └──CompactWindmills                   │ ├─                     │
 
 
 

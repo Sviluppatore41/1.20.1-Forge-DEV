@@ -22,3 +22,4 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         https://github.com/ReIC2Addons/ReAdvSolarPanels
         https://github.com/IgnoreLicensesCN/OpenTC4
         https://gregtech.overminddl1.com/downloads/
+        https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/all?page=1&pageSize=20&showAlphaFiles=show

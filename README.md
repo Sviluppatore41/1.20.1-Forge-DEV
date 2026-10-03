@@ -21,3 +21,4 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290980-1-6-2-resonant-induction-universal-electricity
         https://github.com/ReIC2Addons/ReAdvSolarPanels
         https://github.com/IgnoreLicensesCN/OpenTC4
+        https://gregtech.overminddl1.com/downloads/

@@ -1,15 +1,15 @@
 IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
-        │                                     │ │                      │Resonant Induction
-        ├── Advanced Solar Panels FE          │                        │
-        ├── Gravitation Suite FE              │                        │
-        ├── Gravitation Suite Reload FE       │                        │
-        ├── GregTech 3 FE                     │                        │
-        ├── Buildcraft FE                     │                        │
-        ├── Not Enough Machines FE            │                        │
-        ├──ReactorStuff                       │                        │
-        ├──LevelStorage                       │                        │
-        ├──                                   │                        │
-        └──                                   │                        │
+        │                                     │ │                      │ │ 
+        ├── Advanced Solar Panels FE          │ ├─                     │ ├──Resonant Induction
+        ├── Gravitation Suite FE              │ ├─                     │
+        ├── Gravitation Suite Reload FE       │ ├─                     │
+        ├── GregTech 3 FE                     │ ├─                     │
+        ├── Buildcraft FE                     │ ├─                     │
+        ├── Not Enough Machines FE            │ ├─                     │
+        ├──ReactorStuff                       │ ├─                     │
+        ├──LevelStorage                       │ ├─                     │
+        ├──                                   │ ├─                     │
+        └──                                   │ ├─                     │
 
 
 

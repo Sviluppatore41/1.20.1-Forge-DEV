@@ -1,6 +1,6 @@
 IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         │                                     │ │                      │ │ 
-        ├── Advanced Solar Panels FE          │ ├─                     │ ├──Resonant Induction
+        ├── Advanced Solar Panels FE  *90-R   │ ├─                     │ ├──Resonant Induction
         ├── Gravitation Suite FE              │ ├─                     │
         ├── Gravitation Suite Reload FE       │ ├─                     │
         ├── GregTech 3 FE                     │ ├─                     │

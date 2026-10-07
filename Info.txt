@@ -24,7 +24,7 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         https://gregtech.overminddl1.com/downloads/
         https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/all?page=1&pageSize=20&showAlphaFiles=show
 
-       https://github.com/nictrace/Resonant-Induction
+       https://github.com/Vexatos/Resonant-Induction-1
 
 
 

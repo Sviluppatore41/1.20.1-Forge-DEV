@@ -1,5 +1,5 @@
 IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
-        │                                     │ │                      │ │ 
+        │                                     │ │                      │ ├── xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and elect=1.5.2"
         ├── Advanced Solar Panels FE  *90-R   │ ├─                     │ ├──Resonant Induction
         ├── Gravitation Suite FE              │ ├─                     │
         ├── Gravitation Suite Reload FE       │ ├─                     │
@@ -16,7 +16,7 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
 
 
 
-
+        https://mcarchive.net/mods/xycraft
         https://github.com/EnderiumSmith/ReactorStuff
         https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290980-1-6-2-resonant-induction-universal-electricity
         https://github.com/ReIC2Addons/ReAdvSolarPanels

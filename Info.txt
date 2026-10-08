@@ -4,7 +4,7 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         ├── Gravitation Suite FE              │ ├─                     │
         ├── Gravitation Suite Reload FE       │ ├─                     │
         ├── GregTech 3 FE                     │ ├─                     │
-        ├── Buildcraft FE     20/80           │ ├─                     │
+        ├── ic2 tablet für reactor            │ ├─                     │
         ├── Not Enough Machines FE            │ ├─                     │
         ├──ReactorStuff                       │ ├─                     │
         ├──LevelStorage                       │ ├─                     │

@@ -6,10 +6,10 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
         ├── GregTech 3 FE                     │ ├─                     │
         ├── ic2 tablet für reactor            │ ├─                     │
         ├── Not Enough Machines FE            │ ├─                     │
-        ├──ReactorStuff                       │ ├─                     │
-        ├──LevelStorage                       │ ├─                     │
-        ├──​​ChargePads                         │ ├─                     │
-        └──CompactWindmills                   │ ├─                     │
+        ├── ReactorStuff                      │ ├─                     │
+        ├── LevelStorage                      │ ├─                     │
+        ├── ​​ChargePads                        │ ├─                     │
+        └── CompactWindmills                  │ ├─                     │
 
 
 

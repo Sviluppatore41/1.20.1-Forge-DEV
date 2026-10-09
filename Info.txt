@@ -1,10 +1,10 @@
 IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
-        │                                     │ │                      │ ├── xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and elect=1.5.2"
+        │                                     │ │                      │ │
         ├── Advanced Solar Panels FE  *90-R   │ ├─                     │ ├──Resonant Induction
-        ├── Gravitation Suite FE              │ ├─                     │
+        ├── Gravitation Suite FE              │ ├─                     │ ├──Xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and elect=1.5.2"
         ├── Gravitation Suite Reload FE       │ ├─                     │
         ├── GregTech 3 FE                     │ ├─                     │
-        ├── ic2 tablet für reactor            │ ├─                     │
+        ├── ic2 tablet für reactor {custom}   │ ├─                     │
         ├── Not Enough Machines FE            │ ├─                     │
         ├── ReactorStuff                      │ ├─                     │
         ├── LevelStorage                      │ ├─                     │

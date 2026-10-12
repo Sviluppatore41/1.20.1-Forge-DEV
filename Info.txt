@@ -27,5 +27,8 @@ IndustrialCraft 2 FE                          │ Matter Overdrive FE    │ ETC
        https://github.com/Vexatos/Resonant-Induction-1  https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290980-1-6-2-resonant-induction-universal-electricity
 
 
-
+***(
+For ID
+Info$ https://lexxie.dev/forge/1.20.1/net/minecraft/world/entity/Entity.html
 Class'*- https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html
+)***

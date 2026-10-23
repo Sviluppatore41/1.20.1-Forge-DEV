@@ -8,7 +8,7 @@ IndustrialCraft 2 FE    Done                  │ Matter Overdrive FE    │ ETC
         ├── Not Enough Machines FE            │ ├─                     │
         ├── ReactorStuff                      │ ├─                     │
         ├── LevelStorage                      │ ├─                     │
-        ├── ​​ChargePads                        │ ├─                     │
+        ├── ​​ChargePads              Done      │ ├─                     │
         └── CompactWindmills                  │ ├─                     │
 
 

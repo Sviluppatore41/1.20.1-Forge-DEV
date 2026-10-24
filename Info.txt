@@ -30,28 +30,28 @@ IndustrialCraft 2 FE    Done                  │ Matter Overdrive FE    │ ETC
 
                                                Public CurseForge / Mods
                                                    10/30/2026      
-                                                     Fixes
-              IndustrialCraft 2 FE                     │
-                │                                      │
-10/24/2026 Transformer-gui                             │
-10/24/2026 Recipes.json - count                        │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
-                                                       │
+                                                     Fixes                                
+│              IndustrialCraft 2 FE                     │     Advanced Solar Panels FE     │                                  │                                  │                                  │
+│                │                                      │       │                          │                                  │                                  │                                  │                                  
+│10/24/2026 Transformer-gui                             │10.24.2026 molecular.json - count │                                  │                                  │                           │                                  
+│10/24/2026 Recipes.json - count                        │                                  │                                  │                                  │                                  │                                
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │
+│                                                       │                                  │                                  │                                  │                                  │

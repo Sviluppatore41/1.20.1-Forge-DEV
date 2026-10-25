@@ -9,7 +9,7 @@ IndustrialCraft 2 FE    Done                  │ Matter Overdrive FE    │ ETC
         ├── ReactorStuff                      │ ├─                     │ ├─AE2 ClP (Custom AE2 addon) DEP:AE2'ASP'IC2
         ├── LevelStorage                      │ ├─                     │ ├─
         ├── ​​ChargePads              Done      │ ├─                     │ ├─
-        └── CompactWindmills        Done      │ ├─                     │ ├─
+        └── CompactWindmills                  │ ├─                     │ ├─
 
 
 

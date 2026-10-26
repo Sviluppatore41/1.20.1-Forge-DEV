@@ -1,0 +1,4304 @@
+[
+  {
+    "item": "IC2:itemBatCrystal",
+    "meta": 27,
+     ,
+    "value": 18446.12929490767
+  },
+  {
+    "item": "IC2:itemSteamTurbine",
+    "meta": 0,
+     ,
+    "value": 2921.367708881458
+  },
+  {
+    "item": "minecraft:rail",
+    "meta": 0,
+     ,
+    "value": 50.62838723145413
+  },
+  {
+    "item": "IC2:itemRubber",
+    "meta": 0,
+     ,
+    "value": 10071.449999999999
+  },
+  {
+    "item": "IC2:reactorVent",
+    "meta": 1,
+     ,
+    "value": 1604.5655162994547
+  },
+  {
+    "item": "IC2:itemPurifiedCrushedOre",
+    "meta": 3,
+     ,
+    "value": 108.20635646594052
+  },
+  {
+    "item": "IC2:itemArmorQuantumChestplate",
+    "meta": 0,
+     ,
+    "value": 526000.467774377
+  },
+  {
+    "item": "IC2:itemPurifiedCrushedOre",
+    "meta": 2,
+     ,
+    "value": 845.5834565163833
+  },
+  {
+    "item": "IC2:itemPurifiedCrushedOre",
+    "meta": 1,
+     ,
+    "value": 91.73834576397562
+  },
+  {
+    "item": "IC2:itemPurifiedCrushedOre",
+    "meta": 0,
+     ,
+    "value": 106.56917440301696
+  },
+  {
+    "item": "minecraft:crafting_table",
+    "meta": 0,
+     ,
+    "value": 2008.6697914219715
+  },
+  {
+    "item": "IC2:itemPurifiedCrushedOre",
+    "meta": 6,
+     ,
+    "value": 557.6428464412585
+  },
+  {
+    "item": "IC2:itemPurifiedCrushedOre",
+    "meta": 4,
+     ,
+    "value": 1133.952017084093
+  },
+  {
+    "item": "IC2:itemToolForgeHammer",
+    "meta": 0,
+     ,
+    "value": 873.1241705854134
+  },
+  {
+    "item": "IC2:itemGrinPowder",
+    "meta": 0,
+     ,
+    "value": 8.16664171E8
+  },
+  {
+    "item": "minecraft:bedrock",
+    "meta": 0,
+     ,
+    "value": 16.229595177736574
+  },
+  {
+    "item": "minecraft:ladder",
+    "meta": 0,
+     ,
+    "value": 396.1580149987167
+  },
+  {
+    "item": "minecraft:emerald",
+    "meta": 0,
+     ,
+    "value": 40174.34853404172
+  },
+  {
+    "item": "IC2:itemDoorAlloy",
+    "meta": 0,
+     ,
+    "value": 2328.343585741877
+  },
+  {
+    "item": "IC2:itemTFBP",
+    "meta": 0,
+     ,
+    "value": 132049.00848115262
+  },
+  {
+    "item": "minecraft:leather_chestplate",
+    "meta": 0,
+     ,
+    "value": 64459.87999999999
+  },
+  {
+    "item": "IC2:itemPartCircuitAdv",
+    "meta": 0,
+     ,
+    "value": 70803.9978985159
+  },
+  {
+    "item": "minecraft:paper",
+    "meta": 0,
+     ,
+    "value": 307363.58399197087
+  },
+  {
+    "item": "IC2:reactorMOXQuaddepleted",
+    "meta": 0,
+     ,
+    "value": 356091.90961160016
+  },
+  {
+    "item": "IC2:reactorMOXQuad",
+    "meta": 1,
+     ,
+    "value": 356091.90961160016
+  },
+  {
+    "item": "minecraft:sapling",
+    "meta": 5,
+     ,
+    "value": 23562.830924146685
+  },
+  {
+    "item": "minecraft:sapling",
+    "meta": 4,
+     ,
+    "value": 147252.8231157591
+  },
+  {
+    "item": "minecraft:sapling",
+    "meta": 1,
+     ,
+    "value": 11982.278258700628
+  },
+  {
+    "item": "minecraft:sapling",
+    "meta": 0,
+     ,
+    "value": 6012.620334989877
+  },
+  {
+    "item": "minecraft:sapling",
+    "meta": 3,
+     ,
+    "value": 96055.53481533757
+  },
+  {
+    "item": "minecraft:sapling",
+    "meta": 2,
+     ,
+    "value": 14779.914161614333
+  },
+  {
+    "item": "minecraft:diamond_helmet",
+    "meta": 0,
+     ,
+    "value": 22206.477165448534
+  },
+  {
+    "item": "IC2:reactorMOXSimpledepleted",
+    "meta": 0,
+     ,
+    "value": 88894.84801588245
+  },
+  {
+    "item": "IC2:blockAlloyGlass",
+    "meta": 0,
+     ,
+    "value": 168.6632339893247
+  },
+  {
+    "item": "IC2:itemTurningBlanksWood",
+    "meta": 209715,
+    "nbt": "{state:{l0:3,l1:3,l2:3,l3:3,l4:3}}",
+    "value": 3521.42213498845
+  },
+  {
+    "item": "minecraft:nether_brick",
+    "meta": 0,
+     ,
+    "value": 16173.719999999998
+  },
+  {
+    "item": "IC2:itemBatChargeLamaCrystal",
+    "meta": 0,
+     ,
+    "value": 2602937.0993141406
+  },
+  {
+    "item": "IC2:itemToolBronzeSpade",
+    "meta": 0,
+     ,
+    "value": 436.38364700979537
+  },
+  {
+    "item": "minecraft:stone_shovel",
+    "meta": 0,
+     ,
+    "value": 341.27829857032856
+  },
+  {
+    "item": "IC2:reactorHeatSwitch",
+    "meta": 1,
+     ,
+    "value": 61797.355689168195
+  },
+  {
+    "item": "IC2:itemBoat",
+    "meta": 3,
+     ,
+    "value": 36623.16294859466
+  },
+  {
+    "item": "IC2:itemBoat",
+    "meta": 0,
+     ,
+    "value": 1050.5533952241358
+  },
+  {
+    "item": "IC2:itemBoat",
+    "meta": 1,
+     ,
+    "value": 50358.24999999999
+  },
+  {
+    "item": "IC2:itemScannerAdv",
+    "meta": 0,
+     ,
+    "value": 317300.5075436289
+  },
+  {
+    "item": "IC2:itemFoamSprayer",
+    "meta": 0,
+     ,
+    "value": 444.03730786973983
+  },
+  {
+    "item": "IC2:blockOreLead",
+    "meta": 0,
+     ,
+    "value": 1073.285692882517
+  },
+  {
+    "item": "minecraft:record_blocks",
+    "meta": 0,
+     ,
+    "value": 1.1502312070422536E7
+  },
+  {
+    "item": "minecraft:stone_pressure_plate",
+    "meta": 0,
+     ,
+    "value": 31.0
+  },
+  {
+    "item": "IC2:reactorMOXDual",
+    "meta": 1,
+     ,
+    "value": 177898.9318728346
+  },
+  {
+    "item": "minecraft:golden_carrot",
+    "meta": 0,
+     ,
+    "value": 3082505.0544770714
+  },
+  {
+    "item": "IC2:blockReactorFluidPort",
+    "meta": 0,
+     ,
+    "value": 5975.778677344466
+  },
+  {
+    "item": "IC2:reactorReflectorThick",
+    "meta": 1,
+     ,
+    "value": 2962.768173420483
+  },
+  {
+    "item": "IC2:itemArmorQuantumBoots",
+    "meta": 0,
+     ,
+    "value": 530416.3463226965
+  },
+  {
+    "item": "IC2:itemBatChargeRE",
+    "meta": 0,
+     ,
+    "value": 286424.76832422893
+  },
+  {
+    "item": "IC2:itemToolBronzeHoe",
+    "meta": 0,
+     ,
+    "value": 532.4889954492622
+  },
+  {
+    "item": "IC2:itemToolPainterLime",
+    "meta": 0,
+     ,
+    "value": 386890.631397155
+  },
+  {
+    "item": "minecraft:golden_rail",
+    "meta": 0,
+     ,
+    "value": 894.3815668155389
+  },
+  {
+    "item": "IC2:itemNightvisionGoggles",
+    "meta": 0,
+     ,
+    "value": 611720.7751332244
+  },
+  {
+    "item": "IC2:windmeter",
+    "meta": 0,
+     ,
+    "value": 73114.8205968707
+  },
+  {
+    "item": "minecraft:piston",
+    "meta": 0,
+     ,
+    "value": 1729.0072045157142
+  },
+  {
+    "item": "minecraft:furnace_minecart",
+    "meta": 0,
+     ,
+    "value": 543.8458720150848
+  },
+  {
+    "item": "IC2:itemContainmentbox",
+    "meta": 0,
+     ,
+    "value": 6310.577635275644
+  },
+  {
+    "item": "IC2:itemRemote",
+    "meta": 0,
+     ,
+    "value": 82820.58496045688
+  },
+  {
+    "item": "IC2:reactorUraniumSimpledepleted",
+    "meta": 0,
+     ,
+    "value": 3222.706287196735
+  },
+  {
+    "item": "IC2:blockPersonal",
+    "meta": 2,
+     ,
+    "value": 31933.808507526388
+  },
+  {
+    "item": "IC2:blockPersonal",
+    "meta": 1,
+     ,
+    "value": 9267.014431774662
+  },
+  {
+    "item": "IC2:blockPersonal",
+    "meta": 0,
+     ,
+    "value": 65883.93786901857
+  },
+  {
+    "item": "minecraft:rotten_flesh",
+    "meta": 0,
+     ,
+    "value": 4029.1799999999994
+  },
+  {
+    "item": "IC2:blockReactorRedstonePort",
+    "meta": 0,
+     ,
+    "value": 5838.244643589021
+  },
+  {
+    "item": "minecraft:leather",
+    "meta": 0,
+     ,
+    "value": 8057.359999999999
+  },
+  {
+    "item": "IC2:itemBiochaff",
+    "meta": 0,
+     ,
+    "value": 24064.481339959508
+  },
+  {
+    "item": "IC2:itemCrushedOre",
+    "meta": 3,
+     ,
+    "value": 94.20635646594052
+  },
+  {
+    "item": "IC2:itemCrushedOre",
+    "meta": 2,
+     ,
+    "value": 831.5834565163833
+  },
+  {
+    "item": "IC2:itemCrushedOre",
+    "meta": 1,
+     ,
+    "value": 77.73834576397562
+  },
+  {
+    "item": "IC2:itemCrushedOre",
+    "meta": 0,
+     ,
+    "value": 92.56917440301696
+  },
+  {
+    "item": "IC2:itemTurningBlanks",
+    "meta": 349525,
+    "nbt": "{state:{l0:5,l1:5,l2:5,l3:5,l4:5}}",
+    "value": 275.25626934087575
+  },
+  {
+    "item": "IC2:itemCrushedOre",
+    "meta": 6,
+     ,
+    "value": 543.6428464412585
+  },
+  {
+    "item": "IC2:itemCrushedOre",
+    "meta": 4,
+     ,
+    "value": 1119.952017084093
+  },
+  {
+    "item": "minecraft:cake",
+    "meta": 0,
+     ,
+    "value": 15958.789999999997
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 1,
+     ,
+    "value": 62005.62720959329
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 0,
+     ,
+    "value": 61569.360530758386
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 3,
+     ,
+    "value": 1532.253821087898
+  },
+  {
+    "item": "IC2:itemToolPainterYellow",
+    "meta": 0,
+     ,
+    "value": 213443.98468262848
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 2,
+     ,
+    "value": 76497.45133782658
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 5,
+     ,
+    "value": 601229.7597811203
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 4,
+     ,
+    "value": 8246.812166423195
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 7,
+     ,
+    "value": 128331.26101995878
+  },
+  {
+    "item": "IC2:itemHarz",
+    "meta": 0,
+     ,
+    "value": 633072.9899224807
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 6,
+     ,
+    "value": 9267.273417454406
+  },
+  {
+    "item": "IC2:blockMachine3",
+    "meta": 8,
+     ,
+    "value": 3263.0752320905094
+  },
+  {
+    "item": "IC2:itemArmorQuantumHelmet",
+    "meta": 0,
+     ,
+    "value": 1136648.6702156076
+  },
+  {
+    "item": "IC2:itemBatChargeAdv",
+    "meta": 0,
+     ,
+    "value": 618829.3220758603
+  },
+  {
+    "item": "minecraft:golden_boots",
+    "meta": 0,
+     ,
+    "value": 3383.3338260655332
+  },
+  {
+    "item": "IC2:itemScanner",
+    "meta": 0,
+     ,
+    "value": 178482.37572153538
+  },
+  {
+    "item": "minecraft:poisonous_potato",
+    "meta": 0,
+     ,
+    "value": 8.16664157E8
+  },
+  {
+    "item": "IC2:itemToolPainterGreen",
+    "meta": 0,
+     ,
+    "value": 595396.7175541586
+  },
+  {
+    "item": "minecraft:dirt",
+    "meta": 0,
+     ,
+    "value": 14.464779355496454
+  },
+  {
+    "item": "minecraft:leather_boots",
+    "meta": 0,
+     ,
+    "value": 32230.439999999995
+  },
+  {
+    "item": "IC2:itemupgradekit",
+    "meta": 0,
+     ,
+    "value": 1058348.1338749968
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 8,
+     ,
+    "value": 13.971501888266689
+  },
+  {
+    "item": "IC2:itemFreq",
+    "meta": 0,
+     ,
+    "value": 71108.40767287182
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 9,
+     ,
+    "value": 84.86617793526483
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 6,
+     ,
+    "value": 185.88094881375284
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 4,
+     ,
+    "value": 845.5834565163833
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 5,
+     ,
+    "value": 71.66368913849064
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 2,
+     ,
+    "value": 106.56917440301696
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 3,
+     ,
+    "value": 15.484127891575898
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 0,
+     ,
+    "value": 15.279480133710454
+  },
+  {
+    "item": "IC2:itemDustSmall",
+    "meta": 1,
+     ,
+    "value": 13.425626553830286
+  },
+  {
+    "item": "IC2:itemDust2",
+    "meta": 2,
+     ,
+    "value": 2048.0143661008524
+  },
+  {
+    "item": "IC2:itemDust2",
+    "meta": 0,
+     ,
+    "value": 18509.28493906437
+  },
+  {
+    "item": "IC2:itemDust2",
+    "meta": 1,
+     ,
+    "value": 4455.095433089707
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 8,
+     ,
+    "value": 322792.15691699606
+  },
+  {
+    "item": "minecraft:sign",
+    "meta": 0,
+     ,
+    "value": 1060.714612139374
+  },
+  {
+    "item": "IC2:reactorVentCore",
+    "meta": 1,
+     ,
+    "value": 2352.805615744593
+  },
+  {
+    "item": "IC2:itemironrotor",
+    "meta": 0,
+     ,
+    "value": 4855.612848135763
+  },
+  {
+    "item": "IC2:itemToolbox",
+    "meta": 0,
+     ,
+    "value": 4296.769620609277
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 4,
+     ,
+    "value": 420310.94029850746
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 5,
+     ,
+    "value": 438124.54774678114
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 6,
+     ,
+    "value": 531682.3938802084
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 7,
+     ,
+    "value": 768986.9651600753
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 0,
+     ,
+    "value": 63926.74418786693
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 1,
+     ,
+    "value": 1290148.747235387
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 2,
+     ,
+    "value": 524848.4299485862
+  },
+  {
+    "item": "minecraft:red_flower",
+    "meta": 3,
+     ,
+    "value": 204166.03925
+  },
+  {
+    "item": "minecraft:golden_apple",
+    "meta": 1,
+     ,
+    "value": 66159.62886917959
+  },
+  {
+    "item": "minecraft:golden_apple",
+    "meta": 0,
+     ,
+    "value": 12034.287652131065
+  },
+  {
+    "item": "minecraft:melon",
+    "meta": 0,
+     ,
+    "value": 905392.6352549889
+  },
+  {
+    "item": "minecraft:diamond",
+    "meta": 0,
+     ,
+    "value": 4441.095433089707
+  },
+  {
+    "item": "minecraft:iron_shovel",
+    "meta": 0,
+     ,
+    "value": 446.84747297334553
+  },
+  {
+    "item": "IC2:itemArmorNanoHelmet",
+    "meta": 0,
+     ,
+    "value": 631007.5471443114
+  },
+  {
+    "item": "minecraft:item_frame",
+    "meta": 0,
+     ,
+    "value": 9415.473194281312
+  },
+  {
+    "item": "minecraft:pumpkin",
+    "meta": 0,
+     ,
+    "value": 8832.009999999998
+  },
+  {
+    "item": "IC2:blockRubWood",
+    "meta": 0,
+     ,
+    "value": 101765.00398753893
+  },
+  {
+    "item": "IC2:itemToolPainterRed",
+    "meta": 0,
+     ,
+    "value": 240293.44942801833
+  },
+  {
+    "item": "IC2:itemToolDrill",
+    "meta": 0,
+     ,
+    "value": 94673.06463635065
+  },
+  {
+    "item": "IC2:reactorMOXSimple",
+    "meta": 1,
+     ,
+    "value": 88894.84801588245
+  },
+  {
+    "item": "IC2:itemToolPainterLightGrey",
+    "meta": 0,
+     ,
+    "value": 380532.7444901514
+  },
+  {
+    "item": "IC2:itemArmorBronzeHelmet",
+    "meta": 0,
+     ,
+    "value": 481.5267421973342
+  },
+  {
+    "item": "minecraft:heavy_weighted_pressure_plate",
+    "meta": 0,
+     ,
+    "value": 214.13834880603392
+  },
+  {
+    "item": "minecraft:coal",
+    "meta": 0,
+     ,
+    "value": 91.43977295247991
+  },
+  {
+    "item": "minecraft:coal",
+    "meta": 1,
+     ,
+    "value": 3011.5046871329573
+  },
+  {
+    "item": "IC2:itemWeedingTrowel",
+    "meta": 0,
+     ,
+    "value": 20570.176697612067
+  },
+  {
+    "item": "IC2:itemOreIridium",
+    "meta": 0,
+     ,
+    "value": 12000.0
+  },
+  {
+    "item": "minecraft:brick_stairs",
+    "meta": 0,
+     ,
+    "value": 13934.71370429828
+  },
+  {
+    "item": "minecraft:gunpowder",
+    "meta": 0,
+     ,
+    "value": 236.06763402375267
+  },
+  {
+    "item": "IC2:itemToolMEter",
+    "meta": 0,
+     ,
+    "value": 105425.57740725018
+  },
+  {
+    "item": "minecraft:snowball",
+    "meta": 0,
+     ,
+    "value": 747.1555308129413
+  },
+  {
+    "item": "minecraft:wooden_button",
+    "meta": 0,
+     ,
+    "value": 502.91744785549287
+  },
+  {
+    "item": "minecraft:stone_slab",
+    "meta": 3,
+     ,
+    "value": 0.6666666666666666
+  },
+  {
+    "item": "minecraft:stone_slab",
+    "meta": 1,
+     ,
+    "value": 30.666666666666668
+  },
+  {
+    "item": "minecraft:stone_slab",
+    "meta": 0,
+     ,
+    "value": 7.666666666666667
+  },
+  {
+    "item": "minecraft:oak_stairs",
+    "meta": 0,
+     ,
+    "value": 753.1261717832393
+  },
+  {
+    "item": "minecraft:stone_slab",
+    "meta": 6,
+     ,
+    "value": 8087.026666666665
+  },
+  {
+    "item": "minecraft:stone_slab",
+    "meta": 5,
+     ,
+    "value": 7.791666666666667
+  },
+  {
+    "item": "minecraft:stone_slab",
+    "meta": 4,
+     ,
+    "value": 4644.98790143276
+  },
+  {
+    "item": "IC2:itemToolHoe",
+    "meta": 0,
+     ,
+    "value": 73135.89606626148
+  },
+  {
+    "item": "IC2:itemIronBlockCuttingBlade",
+    "meta": 0,
+     ,
+    "value": 881.886728557469
+  },
+  {
+    "item": "minecraft:mossy_cobblestone",
+    "meta": 0,
+     ,
+    "value": 25964.58706641656
+  },
+  {
+    "item": "IC2:itemToolPainter",
+    "meta": 0,
+     ,
+    "value": 176364.7052401514
+  },
+  {
+    "item": "minecraft:coal_block",
+    "meta": 0,
+     ,
+    "value": 823.9579565723192
+  },
+  {
+    "item": "IC2:itemToolPainterOrange",
+    "meta": 0,
+     ,
+    "value": 226869.21705532342
+  },
+  {
+    "item": "minecraft:lapis_block",
+    "meta": 0,
+     ,
+    "value": 5970.364811339067
+  },
+  {
+    "item": "minecraft:carrot_on_a_stick",
+    "meta": 0,
+     ,
+    "value": 3111620.3811121364
+  },
+  {
+    "item": "IC2:itemPartCFPowder",
+    "meta": 0,
+     ,
+    "value": 2429.1606173830464
+  },
+  {
+    "item": "minecraft:yellow_flower",
+    "meta": 0,
+     ,
+    "value": 37077.27944247707
+  },
+  {
+    "item": "minecraft:dropper",
+    "meta": 0,
+     ,
+    "value": 130.14951250976887
+  },
+  {
+    "item": "minecraft:iron_ore",
+    "meta": 0,
+     ,
+    "value": 171.13834880603392
+  },
+  {
+    "item": "IC2:itemArmorJetpackElectric",
+    "meta": 0,
+     ,
+    "value": 123480.096619637
+  },
+  {
+    "item": "minecraft:iron_chestplate",
+    "meta": 0,
+     ,
+    "value": 853.5533952241357
+  },
+  {
+    "item": "IC2:reactorReflector",
+    "meta": 1,
+     ,
+    "value": 623.6857778168179
+  },
+  {
+    "item": "IC2:itemToolBronzeAxe",
+    "meta": 0,
+     ,
+    "value": 628.5943438887291
+  },
+  {
+    "item": "IC2:blockITNT",
+    "meta": 0,
+     ,
+    "value": 1031.3910027099107
+  },
+  {
+    "item": "minecraft:arrow",
+    "meta": 0,
+     ,
+    "value": 2073.6893498414306
+  },
+  {
+    "item": "IC2:itemwcarbonrotor",
+    "meta": 0,
+     ,
+    "value": 8367.90701524093
+  },
+  {
+    "item": "IC2:itemSlag",
+    "meta": 0,
+     ,
+    "value": 106.56917440301696
+  },
+  {
+    "item": "minecraft:grass",
+    "meta": 0,
+     ,
+    "value": 2634.8099999999995
+  },
+  {
+    "item": "minecraft:leather_helmet",
+    "meta": 0,
+     ,
+    "value": 40287.799999999996
+  },
+  {
+    "item": "IC2:reactorVentSpread",
+    "meta": 0,
+     ,
+    "value": 2205.161370434409
+  },
+  {
+    "item": "IC2:blockHeatGenerator",
+    "meta": 1,
+     ,
+    "value": 61994.12090449215
+  },
+  {
+    "item": "IC2:blockIronScaffold",
+    "meta": 0,
+     ,
+    "value": 54.73555050141421
+  },
+  {
+    "item": "minecraft:shears",
+    "meta": 0,
+     ,
+    "value": 214.13834880603392
+  },
+  {
+    "item": "IC2:blockHeatGenerator",
+    "meta": 0,
+     ,
+    "value": 61586.80176584939
+  },
+  {
+    "item": "IC2:blockHeatGenerator",
+    "meta": 3,
+     ,
+    "value": 132683.56464155822
+  },
+  {
+    "item": "IC2:blockHeatGenerator",
+    "meta": 2,
+     ,
+    "value": 64243.865262024985
+  },
+  {
+    "item": "minecraft:cactus",
+    "meta": 0,
+     ,
+    "value": 419017.0123140072
+  },
+  {
+    "item": "IC2:itemsteelrotor",
+    "meta": 0,
+     ,
+    "value": 4855.612848135763
+  },
+  {
+    "item": "minecraft:iron_hoe",
+    "meta": 0,
+     ,
+    "value": 553.4166473763624
+  },
+  {
+    "item": "IC2:blockFenceIron",
+    "meta": 0,
+     ,
+    "value": 75.11792053484182
+  },
+  {
+    "item": "minecraft:boat",
+    "meta": 0,
+     ,
+    "value": 2510.5872392774645
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 14,
+     ,
+    "value": 3007.5973838062623
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 12,
+     ,
+    "value": 22892.713221010163
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 13,
+     ,
+    "value": 19653.06307721909
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 10,
+     ,
+    "value": 1524.859537765993
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 11,
+     ,
+    "value": 42.074816725724304
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 8,
+     ,
+    "value": 9581.31433984375
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 9,
+     ,
+    "value": 9847.592384472406
+  },
+  {
+    "item": "IC2:itemMOX",
+    "meta": 0,
+     ,
+    "value": 88772.61217481276
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 6,
+     ,
+    "value": 1556.607441903131
+  },
+  {
+    "item": "minecraft:melon_seeds",
+    "meta": 0,
+     ,
+    "value": 905393.6352549889
+  },
+  {
+    "item": "IC2:itemArmorHazmatHelmet",
+    "meta": 0,
+     ,
+    "value": 90859.33775557313
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 4,
+     ,
+    "value": 1749.0287238661126
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 5,
+     ,
+    "value": 9879.340288609545
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 2,
+     ,
+    "value": 1535.4421724783724
+  },
+  {
+    "item": "minecraft:glass_bottle",
+    "meta": 0,
+     ,
+    "value": 29.333333333333332
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 3,
+     ,
+    "value": 73.84615836286214
+  },
+  {
+    "item": "minecraft:golden_axe",
+    "meta": 0,
+     ,
+    "value": 2877.0286681194784
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 0,
+     ,
+    "value": 105.57062499999998
+  },
+  {
+    "item": "IC2:blockOreCopper",
+    "meta": 0,
+     ,
+    "value": 141.47669152795123
+  },
+  {
+    "item": "minecraft:stained_glass_pane",
+    "meta": 1,
+     ,
+    "value": 2378.3364913361875
+  },
+  {
+    "item": "IC2:itemArmorAdvBatpack",
+    "meta": 0,
+     ,
+    "value": 188875.61055627046
+  },
+  {
+    "item": "IC2:itemCoin",
+    "meta": 0,
+     ,
+    "value": 37.55896026742091
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 3,
+     ,
+    "value": 23628.41368788387
+  },
+  {
+    "item": "IC2:blockMiningPipe",
+    "meta": 0,
+     ,
+    "value": 395.1252857119458
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 2,
+     ,
+    "value": 1213858.0891490646
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 1,
+     ,
+    "value": 156087.58736470452
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 0,
+     ,
+    "value": 44442.464261752975
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 7,
+     ,
+    "value": 74508.15443700431
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 6,
+     ,
+    "value": 439445.79911223135
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 5,
+     ,
+    "value": 144105.1149936818
+  },
+  {
+    "item": "IC2:blockElectric",
+    "meta": 4,
+     ,
+    "value": 21083.278959066785
+  },
+  {
+    "item": "IC2:itemRTGPellet",
+    "meta": 0,
+     ,
+    "value": 93323.80517207476
+  },
+  {
+    "item": "minecraft:map",
+    "meta": 0,
+     ,
+    "value": 2459459.0981458887
+  },
+  {
+    "item": "minecraft:iron_helmet",
+    "meta": 0,
+     ,
+    "value": 533.8458720150848
+  },
+  {
+    "item": "minecraft:name_tag",
+    "meta": 0,
+     ,
+    "value": 7632375.29906542
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 8,
+     ,
+    "value": 5998.364811339068
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 6,
+     ,
+    "value": 5047.785617971326
+  },
+  {
+    "item": "minecraft:iron_sword",
+    "meta": 0,
+     ,
+    "value": 383.7774980911982
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 4,
+     ,
+    "value": 988.1225696271526
+  },
+  {
+    "item": "minecraft:glowstone_dust",
+    "meta": 0,
+     ,
+    "value": 3994.081388614378
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 5,
+     ,
+    "value": 988.1225696271526
+  },
+  {
+    "item": "minecraft:bucket",
+    "meta": 0,
+     ,
+    "value": 320.70752320905086
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 2,
+     ,
+    "value": 893.9481359552016
+  },
+  {
+    "item": "minecraft:brewing_stand",
+    "meta": 0,
+     ,
+    "value": 200329.48999999996
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 3,
+     ,
+    "value": 7639.25110864745
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 0,
+     ,
+    "value": 854.6451118757806
+  },
+  {
+    "item": "IC2:itemDensePlates",
+    "meta": 1,
+     ,
+    "value": 1002.8572081934647
+  },
+  {
+    "item": "minecraft:golden_hoe",
+    "meta": 0,
+     ,
+    "value": 2031.4452116030952
+  },
+  {
+    "item": "IC2:itemToolPainterMagenta",
+    "meta": 0,
+     ,
+    "value": 208887.4715863567
+  },
+  {
+    "item": "IC2:itemPartCoalBlock",
+    "meta": 0,
+     ,
+    "value": 274.668929125386
+  },
+  {
+    "item": "IC2:itemToolPainterPurple",
+    "meta": 0,
+     ,
+    "value": 208661.7087124926
+  },
+  {
+    "item": "minecraft:chest_minecart",
+    "meta": 0,
+     ,
+    "value": 4551.185454859027
+  },
+  {
+    "item": "minecraft:mushroom_stew",
+    "meta": 0,
+     ,
+    "value": 292344.7532329044
+  },
+  {
+    "item": "IC2:itemUran235small",
+    "meta": 0,
+     ,
+    "value": 573.9760085420465
+  },
+  {
+    "item": "minecraft:melon_block",
+    "meta": 0,
+     ,
+    "value": 8148534.7172949
+  },
+  {
+    "item": "minecraft:diamond_sword",
+    "meta": 0,
+     ,
+    "value": 9052.830015464577
+  },
+  {
+    "item": "minecraft:brown_mushroom",
+    "meta": 0,
+     ,
+    "value": 97384.23050321965
+  },
+  {
+    "item": "minecraft:stone_stairs",
+    "meta": 0,
+     ,
+    "value": 1.75
+  },
+  {
+    "item": "IC2:itemLathingTool",
+    "meta": 0,
+     ,
+    "value": 231.47168213936726
+  },
+  {
+    "item": "minecraft:clock",
+    "meta": 0,
+     ,
+    "value": 3505.4833385753022
+  },
+  {
+    "item": "minecraft:wooden_hoe",
+    "meta": 0,
+     ,
+    "value": 1344.1131942813142
+  },
+  {
+    "item": "minecraft:record_chirp",
+    "meta": 0,
+     ,
+    "value": 1.601302268627451E7
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 6,
+     ,
+    "value": 286.65475655396256
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 5,
+     ,
+    "value": 61.117920534841815
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 4,
+     ,
+    "value": 61.117920534841815
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 3,
+     ,
+    "value": 430.62506159152497
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 2,
+     ,
+    "value": 55.886007553066754
+  },
+  {
+    "item": "minecraft:netherrack",
+    "meta": 0,
+     ,
+    "value": 4029.1799999999994
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 1,
+     ,
+    "value": 61.936511566303594
+  },
+  {
+    "item": "IC2:itemCasing",
+    "meta": 0,
+     ,
+    "value": 53.702506215321144
+  },
+  {
+    "item": "minecraft:chest",
+    "meta": 0,
+     ,
+    "value": 4016.339582843943
+  },
+  {
+    "item": "minecraft:baked_potato",
+    "meta": 0,
+     ,
+    "value": 2816097.3
+  },
+  {
+    "item": "minecraft:repeater",
+    "meta": 0,
+     ,
+    "value": 753.7268360996352
+  },
+  {
+    "item": "IC2:itemToolWrench",
+    "meta": 0,
+     ,
+    "value": 577.632090636801
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 2,
+     ,
+    "value": 419031.0123140072
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 3,
+     ,
+    "value": 488143.54871488345
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 1,
+     ,
+    "value": 63927.74418786693
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 6,
+     ,
+    "value": 209847.63753541134
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 7,
+     ,
+    "value": 204167.03925
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 4,
+     ,
+    "value": 663.2627568154519
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 5,
+     ,
+    "value": 32296.003472341188
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 10,
+     ,
+    "value": 210524.92615700362
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 11,
+     ,
+    "value": 37078.27944247707
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 9,
+     ,
+    "value": 32973.292093933465
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 14,
+     ,
+    "value": 50503.511815171994
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 15,
+     ,
+    "value": 2017.8399999999997
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 12,
+     ,
+    "value": 1341.0513784077257
+  },
+  {
+    "item": "minecraft:dye",
+    "meta": 13,
+     ,
+    "value": 32521.766346205277
+  },
+  {
+    "item": "minecraft:iron_pickaxe",
+    "meta": 0,
+     ,
+    "value": 659.9858217793794
+  },
+  {
+    "item": "minecraft:blaze_rod",
+    "meta": 0,
+     ,
+    "value": 200325.48999999996
+  },
+  {
+    "item": "minecraft:snow_layer",
+    "meta": 0,
+     ,
+    "value": 1494.977728292549
+  },
+  {
+    "item": "IC2:itemArmorAlloyChestplate",
+    "meta": 0,
+     ,
+    "value": 68244.36130899994
+  },
+  {
+    "item": "IC2:itemToolPainterCloud",
+    "meta": 0,
+     ,
+    "value": 177706.75661855913
+  },
+  {
+    "item": "IC2:blockCrop",
+    "meta": 0,
+     ,
+    "value": 339.77829857032856
+  },
+  {
+    "item": "AdvancedSolarPanel:asp_crafting_items",
+    "meta": 10,
+     ,
+    "value": 12014.0
+  },
+  {
+    "item": "AdvancedSolarPanel:asp_crafting_items",
+    "meta": 11,
+     ,
+    "value": 1133.952017084093
+  },
+  {
+    "item": "IC2:reactorUraniumDual",
+    "meta": 1,
+     ,
+    "value": 6554.6484154631535
+  },
+  {
+    "item": "minecraft:magma_cream",
+    "meta": 0,
+     ,
+    "value": 53393.87799999999
+  },
+  {
+    "item": "IC2:itemTreetap",
+    "meta": 0,
+     ,
+    "value": 2510.5872392774645
+  },
+  {
+    "item": "minecraft:golden_pickaxe",
+    "meta": 0,
+     ,
+    "value": 2877.0286681194784
+  },
+  {
+    "item": "minecraft:apple",
+    "meta": 0,
+     ,
+    "value": 5268.619999999999
+  },
+  {
+    "item": "minecraft:wooden_door",
+    "meta": 0,
+     ,
+    "value": 3012.5046871329573
+  },
+  {
+    "item": "IC2:itemDynamiteSticky",
+    "meta": 0,
+     ,
+    "value": 81098.16810410033
+  },
+  {
+    "item": "minecraft:light_weighted_pressure_plate",
+    "meta": 0,
+     ,
+    "value": 1692.1669130327666
+  },
+  {
+    "item": "IC2:blockChargepad",
+    "meta": 1,
+     ,
+    "value": 216682.47755223862
+  },
+  {
+    "item": "IC2:blockChargepad",
+    "meta": 0,
+     ,
+    "value": 186616.78737698728
+  },
+  {
+    "item": "IC2:blockChargepad",
+    "meta": 3,
+     ,
+    "value": 1356032.4122642989
+  },
+  {
+    "item": "IC2:blockChargepad",
+    "meta": 2,
+     ,
+    "value": 298261.91047993884
+  },
+  {
+    "item": "IC2:blockScaffold",
+    "meta": 0,
+     ,
+    "value": 503.91744785549287
+  },
+  {
+    "item": "minecraft:torch",
+    "meta": 0,
+     ,
+    "value": 65.51973055941104
+  },
+  {
+    "item": "minecraft:iron_ingot",
+    "meta": 0,
+     ,
+    "value": 106.56917440301696
+  },
+  {
+    "item": "IC2:reactorUraniumQuad",
+    "meta": 1,
+     ,
+    "value": 13403.342696857275
+  },
+  {
+    "item": "minecraft:sugar",
+    "meta": 0,
+     ,
+    "value": 307364.25065863755
+  },
+  {
+    "item": "minecraft:stone",
+    "meta": 0,
+     ,
+    "value": 15.0
+  },
+  {
+    "item": "IC2:blockReactorChamber",
+    "meta": 0,
+     ,
+    "value": 3105.1247809891693
+  },
+  {
+    "item": "minecraft:record_wait",
+    "meta": 0,
+     ,
+    "value": 1.0745581013157895E7
+  },
+  {
+    "item": "minecraft:nether_brick_stairs",
+    "meta": 0,
+     ,
+    "value": 24260.829999999994
+  },
+  {
+    "item": "minecraft:glowstone",
+    "meta": 0,
+     ,
+    "value": 15977.325554457511
+  },
+  {
+    "item": "IC2:reactorPlatingHeat",
+    "meta": 0,
+     ,
+    "value": 1796.8709315156998
+  },
+  {
+    "item": "minecraft:lead",
+    "meta": 0,
+     ,
+    "value": 36020.91781522423
+  },
+  {
+    "item": "IC2:itemArmorEnergypack",
+    "meta": 0,
+     ,
+    "value": 178745.72606898652
+  },
+  {
+    "item": "minecraft:cooked_beef",
+    "meta": 0,
+     ,
+    "value": 8832.009999999998
+  },
+  {
+    "item": "IC2:reactorVentGold",
+    "meta": 1,
+     ,
+    "value": 5742.806108476792
+  },
+  {
+    "item": "IC2:itemBatSU",
+    "meta": 0,
+     ,
+    "value": 2050.991892529006
+  },
+  {
+    "item": "IC2:itemPartCarbonPlate",
+    "meta": 0,
+     ,
+    "value": 209.91067904482713
+  },
+  {
+    "item": "minecraft:diamond_horse_armor",
+    "meta": 0,
+     ,
+    "value": 5.10415098125E7
+  },
+  {
+    "item": "minecraft:minecart",
+    "meta": 0,
+     ,
+    "value": 533.8458720150848
+  },
+  {
+    "item": "minecraft:gold_nugget",
+    "meta": 0,
+     ,
+    "value": 94.06482850182037
+  },
+  {
+    "item": "IC2:itemUran235",
+    "meta": 0,
+     ,
+    "value": 5166.784076878419
+  },
+  {
+    "item": "IC2:blockNuke",
+    "meta": 0,
+     ,
+    "value": 162082.89892640582
+  },
+  {
+    "item": "minecraft:lever",
+    "meta": 0,
+     ,
+    "value": 171.63914928516428
+  },
+  {
+    "item": "IC2:itemTFBPFlatification",
+    "meta": 0,
+     ,
+    "value": 132107.8675985746
+  },
+  {
+    "item": "IC2:blockKineticGenerator",
+    "meta": 1,
+     ,
+    "value": 2945.138337916298
+  },
+  {
+    "item": "IC2:blockKineticGenerator",
+    "meta": 0,
+     ,
+    "value": 2816.131867811774
+  },
+  {
+    "item": "IC2:blockKineticGenerator",
+    "meta": 3,
+     ,
+    "value": 1039.5258778426332
+  },
+  {
+    "item": "IC2:blockKineticGenerator",
+    "meta": 2,
+     ,
+    "value": 12958.579006692462
+  },
+  {
+    "item": "minecraft:flint",
+    "meta": 0,
+     ,
+    "value": 66.75825008055887
+  },
+  {
+    "item": "minecraft:flint_and_steel",
+    "meta": 0,
+     ,
+    "value": 174.32742448357584
+  },
+  {
+    "item": "IC2:itemScrapbox",
+    "meta": 0,
+     ,
+    "value": 154.92999999999998
+  },
+  {
+    "item": "minecraft:wheat_seeds",
+    "meta": 0,
+     ,
+    "value": 6144.721094014521
+  },
+  {
+    "item": "minecraft:furnace",
+    "meta": 0,
+     ,
+    "value": 9.0
+  },
+  {
+    "item": "IC2:itemBatREDischarged",
+    "meta": 0,
+     ,
+    "value": 10606.230523440065
+  },
+  {
+    "item": "minecraft:stone_hoe",
+    "meta": 0,
+     ,
+    "value": 342.27829857032856
+  },
+  {
+    "item": "minecraft:potato",
+    "meta": 0,
+     ,
+    "value": 2816083.3
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 7,
+     ,
+    "value": 148014.54500890398
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 15,
+     ,
+    "value": 1.02319207625E8
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 14,
+     ,
+    "value": 122645.59981831539
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 5,
+     ,
+    "value": 64854.757636634175
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 13,
+     ,
+    "value": 477748.86794445565
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 4,
+     ,
+    "value": 71629.75181671404
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 12,
+     ,
+    "value": 546861.404345332
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 11,
+     ,
+    "value": 59381.11838726391
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 2,
+     ,
+    "value": 127985.56633776845
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 10,
+     ,
+    "value": 91013.85910278965
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 1,
+     ,
+    "value": 82816.97392030248
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 9,
+     ,
+    "value": 268565.4931658598
+  },
+  {
+    "item": "minecraft:golden_horse_armor",
+    "meta": 0,
+     ,
+    "value": 3.1410159884615384E7
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 0,
+     ,
+    "value": 385228.3484705746
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 8,
+     ,
+    "value": 262884.89488044847
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 15,
+     ,
+    "value": 62216.11607862263
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 14,
+     ,
+    "value": 62399.40156612931
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 6,
+     ,
+    "value": 91691.14772438192
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 13,
+     ,
+    "value": 61140.37766309874
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 5,
+     ,
+    "value": 269242.78178745206
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 12,
+     ,
+    "value": 61031.732893783344
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 4,
+     ,
+    "value": 95796.13507292554
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 11,
+     ,
+    "value": 800525.0646246761
+  },
+  {
+    "item": "minecraft:redstone_block",
+    "meta": 0,
+     ,
+    "value": 1100.3456125879197
+  },
+  {
+    "item": "minecraft:noteblock",
+    "meta": 0,
+     ,
+    "value": 4138.4890953537115
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 3,
+     ,
+    "value": 60058.907008856186
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 10,
+     ,
+    "value": 122949.89185921353
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 2,
+     ,
+    "value": 91239.62197665374
+  },
+  {
+    "item": "IC2:blockMachine2",
+    "meta": 9,
+     ,
+    "value": 123019.1828669244
+  },
+  {
+    "item": "minecraft:gold_block",
+    "meta": 0,
+     ,
+    "value": 7611.25110864745
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 1,
+     ,
+    "value": 109221.36744562045
+  },
+  {
+    "item": "minecraft:wool",
+    "meta": 0,
+     ,
+    "value": 58716.85563044846
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 5,
+     ,
+    "value": 60709.915037291925
+  },
+  {
+    "item": "minecraft:redstone_lamp",
+    "meta": 0,
+     ,
+    "value": 16466.923604496587
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 7,
+     ,
+    "value": 12005.01874853183
+  },
+  {
+    "item": "IC2:itemBarrel",
+    "meta": 0,
+     ,
+    "value": 102769.83888324992
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 6,
+     ,
+    "value": 430.62004972256915
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 1,
+     ,
+    "value": 1010.5183904161947
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 0,
+     ,
+    "value": 389.5380964402853
+  },
+  {
+    "item": "IC2:blockRubber",
+    "meta": 0,
+     ,
+    "value": 20143.233333333334
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 3,
+     ,
+    "value": 72810.18854305243
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 2,
+     ,
+    "value": 94022.64958993255
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 12,
+     ,
+    "value": 974.1225696271526
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 9,
+     ,
+    "value": 1848.1961114034443
+  },
+  {
+    "item": "IC2:itemPartCarbonMesh",
+    "meta": 0,
+     ,
+    "value": 195.91067904482713
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 8,
+     ,
+    "value": 970.1225696271526
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 11,
+     ,
+    "value": 974.1225696271526
+  },
+  {
+    "item": "IC2:itemRecipePart",
+    "meta": 10,
+     ,
+    "value": 970.1225696271526
+  },
+  {
+    "item": "minecraft:diamond_chestplate",
+    "meta": 0,
+     ,
+    "value": 35529.76346471765
+  },
+  {
+    "item": "minecraft:pumpkin_pie",
+    "meta": 0,
+     ,
+    "value": 326268.7106586376
+  },
+  {
+    "item": "minecraft:record_stal",
+    "meta": 0,
+     ,
+    "value": 1.2373699348484848E7
+  },
+  {
+    "item": "minecraft:stonebrick",
+    "meta": 0,
+     ,
+    "value": 15.25
+  },
+  {
+    "item": "IC2:blockMetal",
+    "meta": 5,
+     ,
+    "value": 960.1225696271526
+  },
+  {
+    "item": "IC2:blockMetal",
+    "meta": 4,
+     ,
+    "value": 5019.785617971326
+  },
+  {
+    "item": "IC2:blockMetal",
+    "meta": 1,
+     ,
+    "value": 974.8572081934647
+  },
+  {
+    "item": "IC2:blockMetal",
+    "meta": 0,
+     ,
+    "value": 826.6451118757806
+  },
+  {
+    "item": "IC2:blockMetal",
+    "meta": 3,
+     ,
+    "value": 2067.313630751368
+  },
+  {
+    "item": "IC2:blockMetal",
+    "meta": 2,
+     ,
+    "value": 865.9481359552016
+  },
+  {
+    "item": "minecraft:dark_oak_stairs",
+    "meta": 0,
+     ,
+    "value": 753.1261717832393
+  },
+  {
+    "item": "IC2:itemToolWrenchElectric",
+    "meta": 0,
+     ,
+    "value": 73388.82063368923
+  },
+  {
+    "item": "minecraft:feather",
+    "meta": 0,
+     ,
+    "value": 8057.359999999999
+  },
+  {
+    "item": "minecraft:flower_pot",
+    "meta": 0,
+     ,
+    "value": 6967.48185214914
+  },
+  {
+    "item": "minecraft:sandstone",
+    "meta": 1,
+     ,
+    "value": 62.333333333333336
+  },
+  {
+    "item": "minecraft:sandstone",
+    "meta": 0,
+     ,
+    "value": 61.0
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 8,
+     ,
+    "value": 72621.85773303335
+  },
+  {
+    "item": "minecraft:sandstone",
+    "meta": 2,
+     ,
+    "value": 61.25
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 9,
+     ,
+    "value": 13835.46573524993
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 3,
+     ,
+    "value": 133642.88187187366
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 0,
+     ,
+    "value": 11483.117251997533
+  },
+  {
+    "item": "IC2:itemMugEmpty",
+    "meta": 0,
+     ,
+    "value": 106.0
+  },
+  {
+    "item": "IC2:itemPlutoniumSmall",
+    "meta": 0,
+     ,
+    "value": 3236.706287196735
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 1,
+     ,
+    "value": 11804.935108488955
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 6,
+     ,
+    "value": 15017.067476730595
+  },
+  {
+    "item": "IC2:itemDiamondBlockCuttingBlade",
+    "meta": 0,
+     ,
+    "value": 35636.33263912067
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 7,
+     ,
+    "value": 13089.140975689179
+  },
+  {
+    "item": "IC2:blockGenerator",
+    "meta": 5,
+     ,
+    "value": 111794.63196536625
+  },
+  {
+    "item": "IC2:itemWeedEx",
+    "meta": 0,
+     ,
+    "value": 8.166643354405203E8
+  },
+  {
+    "item": "minecraft:carrot",
+    "meta": 0,
+     ,
+    "value": 3081751.5358490567
+  },
+  {
+    "item": "minecraft:hay_block",
+    "meta": 0,
+     ,
+    "value": 1.5738710663811563E7
+  },
+  {
+    "item": "minecraft:slime_ball",
+    "meta": 0,
+     ,
+    "value": 13324.979999999998
+  },
+  {
+    "item": "minecraft:dispenser",
+    "meta": 0,
+     ,
+    "value": 44676.95868320161
+  },
+  {
+    "item": "IC2:itemBatChargeCrystal",
+    "meta": 0,
+     ,
+    "value": 953364.2639830926
+  },
+  {
+    "item": "minecraft:stone_axe",
+    "meta": 0,
+     ,
+    "value": 343.27829857032856
+  },
+  {
+    "item": "IC2:itemTinCanFilled",
+    "meta": 0,
+     ,
+    "value": 1068.9113023132606
+  },
+  {
+    "item": "minecraft:tnt_minecart",
+    "meta": 0,
+     ,
+    "value": 1776.1840421338482
+  },
+  {
+    "item": "minecraft:fishing_rod",
+    "meta": 0,
+     ,
+    "value": 29867.845263079722
+  },
+  {
+    "item": "IC2:reactorVentDiamond",
+    "meta": 1,
+     ,
+    "value": 7891.382108095404
+  },
+  {
+    "item": "IC2:itemFertilizer",
+    "meta": 0,
+     ,
+    "value": 1017.9716666666665
+  },
+  {
+    "item": "minecraft:golden_chestplate",
+    "meta": 0,
+     ,
+    "value": 6765.6676521310665
+  },
+  {
+    "item": "IC2:itemDynamite",
+    "meta": 0,
+     ,
+    "value": 1963.919363790253
+  },
+  {
+    "item": "IC2:itemArmorBronzeLegs",
+    "meta": 0,
+     ,
+    "value": 673.7374390762678
+  },
+  {
+    "item": "IC2:itemArmorNanoChestplate",
+    "meta": 0,
+     ,
+    "value": 19916.50404822146
+  },
+  {
+    "item": "minecraft:diamond_shovel",
+    "meta": 0,
+     ,
+    "value": 4781.373731660035
+  },
+  {
+    "item": "IC2:itemScrap",
+    "meta": 0,
+     ,
+    "value": 17.10333333333333
+  },
+  {
+    "item": "minecraft:fence",
+    "meta": 0,
+     ,
+    "value": 509.4174478554928
+  },
+  {
+    "item": "IC2:itemTinCan",
+    "meta": 0,
+     ,
+    "value": 75.9365115663036
+  },
+  {
+    "item": "IC2:itemTFBPCultivation",
+    "meta": 0,
+     ,
+    "value": 156628.8928572107
+  },
+  {
+    "item": "minecraft:diamond_leggings",
+    "meta": 0,
+     ,
+    "value": 31088.668031627945
+  },
+  {
+    "item": "minecraft:activator_rail",
+    "meta": 0,
+     ,
+    "value": 212.0803344638939
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 2,
+     ,
+    "value": 97.77201510613351
+  },
+  {
+    "item": "minecraft:iron_horse_armor",
+    "meta": 0,
+     ,
+    "value": 8.18553661E8
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 3,
+     ,
+    "value": 847.2501231830499
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 0,
+     ,
+    "value": 93.40501243064229
+  },
+  {
+    "item": "minecraft:bone",
+    "meta": 0,
+     ,
+    "value": 8057.359999999999
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 1,
+     ,
+    "value": 109.87302313260719
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 6,
+     ,
+    "value": 559.3095131079251
+  },
+  {
+    "item": "minecraft:wooden_pickaxe",
+    "meta": 0,
+     ,
+    "value": 1846.0306421368073
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 4,
+     ,
+    "value": 108.23584106968363
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 5,
+     ,
+    "value": 108.23584106968363
+  },
+  {
+    "item": "IC2:itemPlates",
+    "meta": 8,
+     ,
+    "value": 664.9294234821186
+  },
+  {
+    "item": "IC2:itemNanoSaber",
+    "meta": 0,
+     ,
+    "value": 27831.756068151353
+  },
+  {
+    "item": "IC2:itemPartCoalBall",
+    "meta": 0,
+     ,
+    "value": 260.668929125386
+  },
+  {
+    "item": "minecraft:bow",
+    "meta": 0,
+     ,
+    "value": 44546.809170691835
+  },
+  {
+    "item": "minecraft:compass",
+    "meta": 0,
+     ,
+    "value": 549.4262101218367
+  },
+  {
+    "item": "minecraft:wooden_sword",
+    "meta": 0,
+     ,
+    "value": 1174.47404499615
+  },
+  {
+    "item": "IC2:itemCropnalyzer",
+    "meta": 0,
+     ,
+    "value": 81733.70183816555
+  },
+  {
+    "item": "minecraft:ice",
+    "meta": 0,
+     ,
+    "value": 3003.622123251765
+  },
+  {
+    "item": "minecraft:redstone_torch",
+    "meta": 0,
+     ,
+    "value": 292.78866179493315
+  },
+  {
+    "item": "minecraft:birch_stairs",
+    "meta": 0,
+     ,
+    "value": 1589.456379995961
+  },
+  {
+    "item": "minecraft:bookshelf",
+    "meta": 0,
+     ,
+    "value": 2793459.8406148707
+  },
+  {
+    "item": "IC2:reactorUraniumQuaddepleted",
+    "meta": 0,
+     ,
+    "value": 13403.342696857275
+  },
+  {
+    "item": "minecraft:iron_door",
+    "meta": 0,
+     ,
+    "value": 640.4150464181017
+  },
+  {
+    "item": "minecraft:ender_eye",
+    "meta": 0,
+     ,
+    "value": 140154.67799999999
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 6,
+     ,
+    "value": 61127.76514958795
+  },
+  {
+    "item": "minecraft:painting",
+    "meta": 0,
+     ,
+    "value": 60074.968824729774
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 5,
+     ,
+    "value": 179495.5211916347
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 4,
+     ,
+    "value": 63864.42338195036
+  },
+  {
+    "item": "IC2:itemFluidCell",
+    "meta": 0,
+     ,
+    "value": 259.6835462652144
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 3,
+     ,
+    "value": 40039.60467257079
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 2,
+     ,
+    "value": 60826.747984435824
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 1,
+     ,
+    "value": 72814.5782970803
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 0,
+     ,
+    "value": 39144.90375363231
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 15,
+     ,
+    "value": 6.821280541666667E7
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 14,
+     ,
+    "value": 81764.0665455436
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 13,
+     ,
+    "value": 318499.5786296371
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 12,
+     ,
+    "value": 364574.602896888
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 11,
+     ,
+    "value": 39587.74559150927
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 10,
+     ,
+    "value": 60676.23940185976
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 9,
+     ,
+    "value": 179043.99544390652
+  },
+  {
+    "item": "minecraft:carpet",
+    "meta": 8,
+     ,
+    "value": 175256.92992029898
+  },
+  {
+    "item": "minecraft:wooden_axe",
+    "meta": 0,
+     ,
+    "value": 1846.0306421368073
+  },
+  {
+    "item": "IC2:itemToolBronzePickaxe",
+    "meta": 0,
+     ,
+    "value": 628.5943438887291
+  },
+  {
+    "item": "minecraft:leather_leggings",
+    "meta": 0,
+     ,
+    "value": 56402.51999999999
+  },
+  {
+    "item": "minecraft:golden_helmet",
+    "meta": 0,
+     ,
+    "value": 4228.917282581917
+  },
+  {
+    "item": "IC2:itemArmorBatpack",
+    "meta": 0,
+     ,
+    "value": 125140.01214611305
+  },
+  {
+    "item": "minecraft:sticky_piston",
+    "meta": 0,
+     ,
+    "value": 15054.987204515712
+  },
+  {
+    "item": "minecraft:speckled_melon",
+    "meta": 0,
+     ,
+    "value": 906146.1538830035
+  },
+  {
+    "item": "IC2:reactorPlatingExplosive",
+    "meta": 0,
+     ,
+    "value": 2026.2734699958346
+  },
+  {
+    "item": "minecraft:reeds",
+    "meta": 0,
+     ,
+    "value": 307363.25065863755
+  },
+  {
+    "item": "IC2:itemTFBPChilling",
+    "meta": 0,
+     ,
+    "value": 135038.63060440437
+  },
+  {
+    "item": "minecraft:nether_brick_fence",
+    "meta": 0,
+     ,
+    "value": 16173.886666666664
+  },
+  {
+    "item": "minecraft:stone_brick_stairs",
+    "meta": 0,
+     ,
+    "value": 23.125
+  },
+  {
+    "item": "IC2:itemArmorHazmatChestplate",
+    "meta": 0,
+     ,
+    "value": 161436.72363034397
+  },
+  {
+    "item": "minecraft:lit_pumpkin",
+    "meta": 0,
+     ,
+    "value": 8898.529730559409
+  },
+  {
+    "item": "minecraft:golden_leggings",
+    "meta": 0,
+     ,
+    "value": 5920.084195614683
+  },
+  {
+    "item": "IC2:itemToolPainterCyan",
+    "meta": 0,
+     ,
+    "value": 386213.3427755628
+  },
+  {
+    "item": "minecraft:trapdoor",
+    "meta": 0,
+     ,
+    "value": 1506.2523435664787
+  },
+  {
+    "item": "IC2:itemArmorBronzeBoots",
+    "meta": 0,
+     ,
+    "value": 385.42139375786735
+  },
+  {
+    "item": "minecraft:wooden_shovel",
+    "meta": 0,
+     ,
+    "value": 842.1957464258214
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 9,
+     ,
+    "value": 15.0
+  },
+  {
+    "item": "minecraft:book",
+    "meta": 0,
+     ,
+    "value": 930149.1119759126
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 10,
+     ,
+    "value": 557.6428464412585
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 13,
+     ,
+    "value": 250.06763402375267
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 12,
+     ,
+    "value": 664.9294234821186
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 1,
+     ,
+    "value": 4623.821234766093
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 0,
+     ,
+    "value": 82.10534843946684
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 3,
+     ,
+    "value": 91.73834576397562
+  },
+  {
+    "item": "minecraft:jukebox",
+    "meta": 0,
+     ,
+    "value": 8457.43501593365
+  },
+  {
+    "item": "minecraft:clay",
+    "meta": 0,
+     ,
+    "value": 9233.642469532186
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 2,
+     ,
+    "value": 24.11383488060339
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 5,
+     ,
+    "value": 106.56917440301696
+  },
+  {
+    "item": "minecraft:fence_gate",
+    "meta": 0,
+     ,
+    "value": 1683.3914928516429
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 4,
+     ,
+    "value": 845.5834565163833
+  },
+  {
+    "item": "minecraft:stone_pickaxe",
+    "meta": 0,
+     ,
+    "value": 343.27829857032856
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 7,
+     ,
+    "value": 108.20635646594052
+  },
+  {
+    "item": "IC2:itemDust",
+    "meta": 6,
+     ,
+    "value": 7611.25110864745
+  },
+  {
+    "item": "IC2:reactorPlating",
+    "meta": 0,
+     ,
+    "value": 1048.6308320705616
+  },
+  {
+    "item": "minecraft:diamond_block",
+    "meta": 0,
+     ,
+    "value": 39970.85889780736
+  },
+  {
+    "item": "minecraft:hardened_clay",
+    "meta": 0,
+     ,
+    "value": 864.5049991478425
+  },
+  {
+    "item": "minecraft:egg",
+    "meta": 0,
+     ,
+    "value": 10071.449999999999
+  },
+  {
+    "item": "minecraft:stone_button",
+    "meta": 0,
+     ,
+    "value": 16.0
+  },
+  {
+    "item": "minecraft:cobblestone",
+    "meta": 0,
+     ,
+    "value": 1.0
+  },
+  {
+    "item": "IC2:itemArmorNanoBoots",
+    "meta": 0,
+     ,
+    "value": 19286.772011086978
+  },
+  {
+    "item": "minecraft:redstone",
+    "meta": 0,
+     ,
+    "value": 122.14951250976887
+  },
+  {
+    "item": "minecraft:fire_charge",
+    "meta": 0,
+     ,
+    "value": 13465.468468992076
+  },
+  {
+    "item": "IC2:blockLuminatorDark",
+    "meta": 0,
+     ,
+    "value": 1302.0834260599568
+  },
+  {
+    "item": "minecraft:jungle_stairs",
+    "meta": 0,
+     ,
+    "value": 2020.1051355488617
+  },
+  {
+    "item": "IC2:itemPartAlloy",
+    "meta": 0,
+     ,
+    "value": 488.32131896263655
+  },
+  {
+    "item": "minecraft:netherbrick",
+    "meta": 0,
+     ,
+    "value": 4043.1799999999994
+  },
+  {
+    "item": "IC2:reactorUraniumDualdepleted",
+    "meta": 0,
+     ,
+    "value": 6554.6484154631535
+  },
+  {
+    "item": "minecraft:cobblestone_wall",
+    "meta": 1,
+     ,
+    "value": 25964.753733083227
+  },
+  {
+    "item": "minecraft:cobblestone_wall",
+    "meta": 0,
+     ,
+    "value": 1.1666666666666667
+  },
+  {
+    "item": "minecraft:wheat",
+    "meta": 0,
+     ,
+    "value": 1748745.5182012848
+  },
+  {
+    "item": "minecraft:glass",
+    "meta": 0,
+     ,
+    "value": 29.0
+  },
+  {
+    "item": "IC2:itemTFBPDesertification",
+    "meta": 0,
+     ,
+    "value": 132110.00848115262
+  },
+  {
+    "item": "minecraft:golden_shovel",
+    "meta": 0,
+     ,
+    "value": 1185.8617550867118
+  },
+  {
+    "item": "minecraft:wooden_pressure_plate",
+    "meta": 0,
+     ,
+    "value": 1004.8348957109857
+  },
+  {
+    "item": "minecraft:gold_ingot",
+    "meta": 0,
+     ,
+    "value": 845.5834565163833
+  },
+  {
+    "item": "IC2:itemArmorHazmatLeggings",
+    "meta": 0,
+     ,
+    "value": 110933.21181517199
+  },
+  {
+    "item": "IC2:blockRubSapling",
+    "meta": 0,
+     ,
+    "value": 388148.36359315587
+  },
+  {
+    "item": "minecraft:iron_leggings",
+    "meta": 0,
+     ,
+    "value": 746.9842208211187
+  },
+  {
+    "item": "minecraft:record_ward",
+    "meta": 0,
+     ,
+    "value": 9839327.192771085
+  },
+  {
+    "item": "minecraft:diamond_boots",
+    "meta": 0,
+     ,
+    "value": 17765.381732358826
+  },
+  {
+    "item": "IC2:reactorMOXDualdepleted",
+    "meta": 0,
+     ,
+    "value": 177898.9318728346
+  },
+  {
+    "item": "minecraft:red_mushroom",
+    "meta": 0,
+     ,
+    "value": 194582.83464379318
+  },
+  {
+    "item": "IC2:itemUran238",
+    "meta": 0,
+     ,
+    "value": 229.59040341681862
+  },
+  {
+    "item": "minecraft:hopper",
+    "meta": 0,
+     ,
+    "value": 4550.185454859027
+  },
+  {
+    "item": "IC2:itemStaticBoots",
+    "meta": 0,
+     ,
+    "value": 89467.2206738245
+  },
+  {
+    "item": "minecraft:emerald_block",
+    "meta": 0,
+     ,
+    "value": 361570.13680637546
+  },
+  {
+    "item": "IC2:blockreactorvessel",
+    "meta": 0,
+     ,
+    "value": 714.3868913849064
+  },
+  {
+    "item": "IC2:itemPlutonium",
+    "meta": 0,
+     ,
+    "value": 29131.356584770616
+  },
+  {
+    "item": "minecraft:detector_rail",
+    "meta": 0,
+     ,
+    "value": 132.26075982131178
+  },
+  {
+    "item": "minecraft:hopper_minecart",
+    "meta": 0,
+     ,
+    "value": 5085.031326874112
+  },
+  {
+    "item": "minecraft:double_plant",
+    "meta": 1,
+     ,
+    "value": 473703.1073085847
+  },
+  {
+    "item": "minecraft:double_plant",
+    "meta": 0,
+     ,
+    "value": 496754.35340632603
+  },
+  {
+    "item": "minecraft:double_plant",
+    "meta": 5,
+     ,
+    "value": 516876.0487341772
+  },
+  {
+    "item": "minecraft:double_plant",
+    "meta": 4,
+     ,
+    "value": 500713.7688534641
+  },
+  {
+    "item": "minecraft:wooden_slab",
+    "meta": 5,
+     ,
+    "value": 251.12539059441312
+  },
+  {
+    "item": "minecraft:wooden_slab",
+    "meta": 4,
+     ,
+    "value": 5385.032915381166
+  },
+  {
+    "item": "minecraft:wooden_slab",
+    "meta": 3,
+     ,
+    "value": 673.4517118496206
+  },
+  {
+    "item": "IC2:itemArmorNanoLegs",
+    "meta": 0,
+     ,
+    "value": 19706.593369176633
+  },
+  {
+    "item": "minecraft:wooden_slab",
+    "meta": 2,
+     ,
+    "value": 529.9021266653203
+  },
+  {
+    "item": "minecraft:wooden_slab",
+    "meta": 1,
+     ,
+    "value": 285.1467960721023
+  },
+  {
+    "item": "minecraft:snow",
+    "meta": 0,
+     ,
+    "value": 2989.622123251765
+  },
+  {
+    "item": "minecraft:wooden_slab",
+    "meta": 0,
+     ,
+    "value": 251.12539059441312
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 0,
+     ,
+    "value": 91.73834576397562
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 1,
+     ,
+    "value": 108.20635646594052
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 2,
+     ,
+    "value": 96.10534843946684
+  },
+  {
+    "item": "minecraft:stick",
+    "meta": 0,
+     ,
+    "value": 169.63914928516428
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 3,
+     ,
+    "value": 106.56917440301696
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 4,
+     ,
+    "value": 474.32131896263655
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 5,
+     ,
+    "value": 557.6428464412585
+  },
+  {
+    "item": "IC2:itemIngot",
+    "meta": 6,
+     ,
+    "value": 7625.25110864745
+  },
+  {
+    "item": "minecraft:trapped_chest",
+    "meta": 0,
+     ,
+    "value": 4406.90246861578
+  },
+  {
+    "item": "minecraft:gold_ore",
+    "meta": 0,
+     ,
+    "value": 1649.1669130327666
+  },
+  {
+    "item": "minecraft:log",
+    "meta": 2,
+     ,
+    "value": 6342.825519983845
+  },
+  {
+    "item": "minecraft:log",
+    "meta": 3,
+     ,
+    "value": 8065.4205421954475
+  },
+  {
+    "item": "minecraft:log",
+    "meta": 0,
+     ,
+    "value": 3691.9717766726944
+  },
+  {
+    "item": "minecraft:log",
+    "meta": 1,
+     ,
+    "value": 3405.7615528652273
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 5,
+     ,
+    "value": 30.14229360075424
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 6,
+     ,
+    "value": 30245.492293600753
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 0,
+     ,
+    "value": 10107.696115254657
+  },
+  {
+    "item": "IC2:itemToolPainterBrown",
+    "meta": 0,
+     ,
+    "value": 664509.2539550349
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 1,
+     ,
+    "value": 35.24611525465854
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 2,
+     ,
+    "value": 214.89586412909583
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 3,
+     ,
+    "value": 20358.795864129093
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 12,
+     ,
+    "value": 60907.922761506205
+  },
+  {
+    "item": "minecraft:brick_block",
+    "meta": 0,
+     ,
+    "value": 9289.642469532186
+  },
+  {
+    "item": "IC2:itemArmorBronzeChestplate",
+    "meta": 0,
+     ,
+    "value": 769.8427875157347
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 13,
+     ,
+    "value": 10113.185452155312
+  },
+  {
+    "item": "minecraft:iron_block",
+    "meta": 0,
+     ,
+    "value": 960.1225696271526
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 9,
+     ,
+    "value": 11882.279840849154
+  },
+  {
+    "item": "IC2:reactorHeatSwitchCore",
+    "meta": 1,
+     ,
+    "value": 62545.59578861333
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 10,
+     ,
+    "value": 40.7354521553135
+  },
+  {
+    "item": "IC2:itemToolPainterBlue",
+    "meta": 0,
+     ,
+    "value": 177028.96799696685
+  },
+  {
+    "item": "IC2:itemCable",
+    "meta": 11,
+     ,
+    "value": 91612.65238874723
+  },
+  {
+    "item": "IC2:itemToolPainterPink",
+    "meta": 0,
+     ,
+    "value": 209338.99733408488
+  },
+  {
+    "item": "minecraft:string",
+    "meta": 0,
+     ,
+    "value": 14678.963907612115
+  },
+  {
+    "item": "minecraft:blaze_powder",
+    "meta": 0,
+     ,
+    "value": 40067.897999999994
+  },
+  {
+    "item": "minecraft:soul_sand",
+    "meta": 0,
+     ,
+    "value": 8057.359999999999
+  },
+  {
+    "item": "minecraft:cooked_chicken",
+    "meta": 0,
+     ,
+    "value": 8832.009999999998
+  },
+  {
+    "item": "minecraft:diamond_hoe",
+    "meta": 0,
+     ,
+    "value": 9222.469164749742
+  },
+  {
+    "item": "minecraft:planks",
+    "meta": 4,
+     ,
+    "value": 10769.732497429
+  },
+  {
+    "item": "minecraft:record_11",
+    "meta": 0,
+     ,
+    "value": 1.2760377453125E7
+  },
+  {
+    "item": "minecraft:planks",
+    "meta": 5,
+     ,
+    "value": 501.91744785549287
+  },
+  {
+    "item": "minecraft:planks",
+    "meta": 2,
+     ,
+    "value": 1059.4709199973074
+  },
+  {
+    "item": "minecraft:planks",
+    "meta": 3,
+     ,
+    "value": 1346.5700903659078
+  },
+  {
+    "item": "minecraft:planks",
+    "meta": 0,
+     ,
+    "value": 501.91744785549287
+  },
+  {
+    "item": "minecraft:planks",
+    "meta": 1,
+     ,
+    "value": 569.9602588108712
+  },
+  {
+    "item": "IC2:itemPartCircuit",
+    "meta": 0,
+     ,
+    "value": 60999.71155761716
+  },
+  {
+    "item": "minecraft:diamond_axe",
+    "meta": 0,
+     ,
+    "value": 13663.564597839448
+  },
+  {
+    "item": "minecraft:golden_sword",
+    "meta": 0,
+     ,
+    "value": 1861.8060623179308
+  },
+  {
+    "item": "minecraft:glass_pane",
+    "meta": 0,
+     ,
+    "value": 10.9375
+  },
+  {
+    "item": "IC2:reactorHeatSwitchSpread",
+    "meta": 1,
+     ,
+    "value": 65187.356181900395
+  },
+  {
+    "item": "IC2:itemToolCutter",
+    "meta": 0,
+     ,
+    "value": 538.8458720150849
+  },
+  {
+    "item": "IC2:itemBatLamaCrystal",
+    "meta": 0,
+     ,
+    "value": 164044.70163283218
+  },
+  {
+    "item": "IC2:reactorHeatSwitchDiamond",
+    "meta": 1,
+     ,
+    "value": 248348.25719992982
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 8,
+     ,
+    "value": 25550.00490625
+  },
+  {
+    "item": "IC2:itemArmorJetpack",
+    "meta": 18001,
+     ,
+    "value": 61749.16581104128
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 9,
+     ,
+    "value": 26260.079691926418
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 10,
+     ,
+    "value": 4066.1254340426485
+  },
+  {
+    "item": "IC2:itemPartCarbonFibre",
+    "meta": 0,
+     ,
+    "value": 97.45533952241357
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 11,
+     ,
+    "value": 112.03284460193149
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 12,
+     ,
+    "value": 61047.06858936043
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 13,
+     ,
+    "value": 52408.0015392509
+  },
+  {
+    "item": "minecraft:acacia_stairs",
+    "meta": 0,
+     ,
+    "value": 16154.8487461435
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 14,
+     ,
+    "value": 8020.093023483366
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 0,
+     ,
+    "value": 281.35499999999996
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 1,
+     ,
+    "value": 6342.063976896499
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 2,
+     ,
+    "value": 4094.3457932756596
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 3,
+     ,
+    "value": 196.7564223009657
+  },
+  {
+    "item": "IC2:obscurator",
+    "meta": 0,
+     ,
+    "value": 133436.8699380626
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 4,
+     ,
+    "value": 4663.909930309634
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 5,
+     ,
+    "value": 26344.740769625452
+  },
+  {
+    "item": "minecraft:stained_glass",
+    "meta": 6,
+     ,
+    "value": 4150.786511741683
+  },
+  {
+    "item": "minecraft:waterlily",
+    "meta": 0,
+     ,
+    "value": 170422.40338063438
+  },
+  {
+    "item": "minecraft:bowl",
+    "meta": 0,
+     ,
+    "value": 376.68808589161966
+  },
+  {
+    "item": "minecraft:bread",
+    "meta": 0,
+     ,
+    "value": 5268.619999999999
+  },
+  {
+    "item": "IC2:itemFuelPlantBall",
+    "meta": 0,
+     ,
+    "value": 1.3989965145610278E7
+  },
+  {
+    "item": "IC2:itemArmorCFPack",
+    "meta": 0,
+     ,
+    "value": 62988.63827895235
+  },
+  {
+    "item": "minecraft:tnt",
+    "meta": 0,
+     ,
+    "value": 1241.3381701187634
+  },
+  {
+    "item": "IC2:itemToolBronzeSword",
+    "meta": 0,
+     ,
+    "value": 362.8498461640979
+  },
+  {
+    "item": "IC2:itemPartIridium",
+    "meta": 0,
+     ,
+    "value": 54395.380708940254
+  },
+  {
+    "item": "IC2:itemUran",
+    "meta": 0,
+     ,
+    "value": 3100.470446127051
+  },
+  {
+    "item": "minecraft:brick",
+    "meta": 0,
+     ,
+    "value": 2322.1606173830464
+  },
+  {
+    "item": "IC2:itemAdvIronBlockCuttingBlade",
+    "meta": 0,
+     ,
+    "value": 973.455902960486
+  },
+  {
+    "item": "IC2:itemToolPainterWhite",
+    "meta": 0,
+     ,
+    "value": 178383.5452401514
+  },
+  {
+    "item": "IC2:itemSolarHelmet",
+    "meta": 0,
+     ,
+    "value": 164499.8160896527
+  },
+  {
+    "item": "IC2:itemSteamTurbineBlade",
+    "meta": 0,
+     ,
+    "value": 973.455902960486
+  },
+  {
+    "item": "minecraft:stone_sword",
+    "meta": 0,
+     ,
+    "value": 172.63914928516428
+  },
+  {
+    "item": "minecraft:ender_pearl",
+    "meta": 0,
+     ,
+    "value": 100085.77999999998
+  },
+  {
+    "item": "IC2:itemAdvBat",
+    "meta": 0,
+     ,
+    "value": 21303.53274873966
+  },
+  {
+    "item": "minecraft:pumpkin_seeds",
+    "meta": 0,
+     ,
+    "value": 2208.2524999999996
+  },
+  {
+    "item": "IC2:itemArmorQuantumLegs",
+    "meta": 0,
+     ,
+    "value": 302264.992654233
+  },
+  {
+    "item": "minecraft:bed",
+    "meta": 0,
+     ,
+    "value": 177657.31923491185
+  },
+  {
+    "item": "IC2:reactorUraniumSimple",
+    "meta": 1,
+     ,
+    "value": 3222.706287196735
+  },
+  {
+    "item": "minecraft:iron_bars",
+    "meta": 0,
+     ,
+    "value": 40.02594040113136
+  },
+  {
+    "item": "IC2:itemCellEmpty",
+    "meta": 5,
+     ,
+    "value": 55.29100771086906
+  },
+  {
+    "item": "minecraft:sandstone_stairs",
+    "meta": 0,
+     ,
+    "value": 91.75
+  },
+  {
+    "item": "IC2:itemCellEmpty",
+    "meta": 0,
+     ,
+    "value": 41.29100771086906
+  },
+  {
+    "item": "minecraft:record_cat",
+    "meta": 0,
+     ,
+    "value": 6980035.52991453
+  },
+  {
+    "item": "IC2:itemTreetapElectric",
+    "meta": 0,
+     ,
+    "value": 75321.77578232989
+  },
+  {
+    "item": "minecraft:cauldron",
+    "meta": 0,
+     ,
+    "value": 746.9842208211187
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 6,
+     ,
+    "value": 4986.291510889526
+  },
+  {
+    "item": "minecraft:iron_axe",
+    "meta": 0,
+     ,
+    "value": 659.9858217793794
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 5,
+     ,
+    "value": 27180.245768773293
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 4,
+     ,
+    "value": 5499.414929457476
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 3,
+     ,
+    "value": 1032.261421448808
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 2,
+     ,
+    "value": 4929.850792423502
+  },
+  {
+    "item": "minecraft:record_far",
+    "meta": 0,
+     ,
+    "value": 1.3387937E7
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 1,
+     ,
+    "value": 1891.5910190070738
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 0,
+     ,
+    "value": 1116.8599991478425
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 14,
+     ,
+    "value": 8855.598022631208
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 13,
+     ,
+    "value": 53243.506538398746
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 12,
+     ,
+    "value": 4025.355663446372
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 11,
+     ,
+    "value": 947.537843749774
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 10,
+     ,
+    "value": 4901.630433190491
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 9,
+     ,
+    "value": 27095.58469107426
+  },
+  {
+    "item": "minecraft:stained_hardened_clay",
+    "meta": 8,
+     ,
+    "value": 21378.083217716812
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 13,
+     ,
+    "value": 65136.652297184075
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 12,
+     ,
+    "value": 2697.294088851131
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 15,
+     ,
+    "value": 150767.02246252776
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 14,
+     ,
+    "value": 327024.61116202374
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 9,
+     ,
+    "value": 1751.0196446857658
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 8,
+     ,
+    "value": 65333.60012771947
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 11,
+     ,
+    "value": 66209.21236166154
+  },
+  {
+    "item": "minecraft:sand",
+    "meta": 0,
+     ,
+    "value": 15.0
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 10,
+     ,
+    "value": 102380.964762615
+  },
+  {
+    "item": "minecraft:sand",
+    "meta": 1,
+     ,
+    "value": 26599.705458927758
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 5,
+     ,
+    "value": 61957.59828617463
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 4,
+     ,
+    "value": 71909.94724328449
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 7,
+     ,
+    "value": 127278.77471234767
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 6,
+     ,
+    "value": 62301.15386713875
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 1,
+     ,
+    "value": 551.1792053484181
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 0,
+     ,
+    "value": 866.886728557469
+  },
+  {
+    "item": "minecraft:cooked_porkchop",
+    "meta": 0,
+     ,
+    "value": 8832.009999999998
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 3,
+     ,
+    "value": 62069.873036416306
+  },
+  {
+    "item": "IC2:blockMachine",
+    "meta": 2,
+     ,
+    "value": 61796.18978798512
+  },
+  {
+    "item": "minecraft:cookie",
+    "meta": 0,
+     ,
+    "value": 498204.44813968166
+  },
+  {
+    "item": "minecraft:gravel",
+    "meta": 0,
+     ,
+    "value": 52.75825008055887
+  },
+  {
+    "item": "IC2:itemFuelRod",
+    "meta": 0,
+     ,
+    "value": 122.23584106968363
+  },
+  {
+    "item": "minecraft:tripwire_hook",
+    "meta": 0,
+     ,
+    "value": 389.56288577183705
+  },
+  {
+    "item": "IC2:upgradeModule",
+    "meta": 1,
+     ,
+    "value": 122946.58224494214
+  },
+  {
+    "item": "IC2:upgradeModule",
+    "meta": 2,
+     ,
+    "value": 94331.92155084401
+  },
+  {
+    "item": "IC2:upgradeModule",
+    "meta": 3,
+     ,
+    "value": 89224.30365201694
+  },
+  {
+    "item": "IC2:upgradeModule",
+    "meta": 4,
+     ,
+    "value": 1451.0104829466236
+  },
+  {
+    "item": "IC2:upgradeModule",
+    "meta": 5,
+     ,
+    "value": 612.1312418155931
+  },
+  {
+    "item": "IC2:itemwoodrotor",
+    "meta": 0,
+     ,
+    "value": 48127.644168530336
+  },
+  {
+    "item": "IC2:upgradeModule",
+    "meta": 6,
+     ,
+    "value": 115876.26365201693
+  },
+  {
+    "item": "minecraft:iron_boots",
+    "meta": 0,
+     ,
+    "value": 427.27669761206784
+  },
+  {
+    "item": "IC2:itemArmorRubBoots",
+    "meta": 0,
+     ,
+    "value": 119146.55563044845
+  },
+  {
+    "item": "minecraft:clay_ball",
+    "meta": 0,
+     ,
+    "value": 2308.1606173830464
+  },
+  {
+    "item": "IC2:blockOreUran",
+    "meta": 0,
+     ,
+    "value": 2225.904034168186
+  },
+  {
+    "item": "minecraft:anvil",
+    "meta": 0,
+     ,
+    "value": 3307.644406493526
+  },
+  {
+    "item": "IC2:blockReactorAccessHatch",
+    "meta": 0,
+     ,
+    "value": 7222.3474746457305
+  },
+  {
+    "item": "minecraft:spruce_stairs",
+    "meta": 0,
+     ,
+    "value": 855.1903882163068
+  },
+  {
+    "item": "IC2:blockOreTin",
+    "meta": 0,
+     ,
+    "value": 174.41271293188103
+  },
+  {
+    "item": "minecraft:log2",
+    "meta": 1,
+     ,
+    "value": 2997.5046871329573
+  },
+  {
+    "item": "minecraft:log2",
+    "meta": 0,
+     ,
+    "value": 64604.394984574006
+  },
+  {
+    "item": "minecraft:diamond_pickaxe",
+    "meta": 0,
+     ,
+    "value": 13663.564597839448
+  },
+  {
+    "item": "minecraft:saddle",
+    "meta": 0,
+     ,
+    "value": 6693968.5
+  },
+  {
+    "item": "minecraft:record_strad",
+    "meta": 0,
+     ,
+    "value": 1.2564063953846155E7
+  },
+  {
+    "item": "IC2:itemToolChainsaw",
+    "meta": 0,
+     ,
+    "value": 94673.06463635065
+  }
+]

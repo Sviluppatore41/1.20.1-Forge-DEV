@@ -1,6 +1,6 @@
-IndustrialCraft 2 FE    Done                  │ Matter Overdrive FE    │ ETC
+IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         │                                     │ │                      │ │
-        ├── Advanced Solar Panels FE  Done    │ ├─                     │ ├──Resonant Induction
+        ├── Advanced Solar Panels FE  Done    │ ├─ Matter Overdrive FE │ ├──Resonant Induction
         ├── Gravitation Suite FE  Done        │ ├─                     │ ├──Xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and elect=1.5.2"
         ├── Gravitation Suite Reload FE Done  │ ├─                     │ ├─AE2-foxwhitetechnologies/foxiwhitee
         ├── GregTech 4 FE                     │ ├─                     │ ├─MolecularTransformer AE2(ASP)

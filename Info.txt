@@ -7,7 +7,7 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         ├── ic2 tablet für reactor {custom}   │ ├─                     │ ├─ 
         ├── Not Enough Machines FE            │ ├─                     │ ├─Advanced Axtr(Custom IC2 addon) DEP:ASP'IC2
         ├── ReactorStuff                      │ ├─                     │ ├─AE2 ClP (Custom AE2 addon) DEP:AE2'ASP'IC2
-        ├── LevelStorage                      │ ├─                     │ ├─Rendering world-3D (Custom DeC)
+        ├── LevelStorage                      │ ├─                     │ ├─
         ├── ​​ChargePads              Done      │ ├─                     │ ├─
         └── CompactWindmills                  │ ├─                     │ ├─
 

@@ -14,14 +14,9 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
 
 
 
-+{ https://www.curseforge.com/minecraft/mc-mods/superwindmills-ic2-classic-addon/files/all?page=1&pageSize=20&showAlphaFiles=show
-   https://mcarchive.net/mods/xycraft
-   https://github.com/EnderiumSmith/ReactorStuff
-   https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290980-1-6-2-resonant-induction-universal-electricity
-   https://github.com/ReIC2Addons/ReAdvSolarPanels
++{ https://github.com/EnderiumSmith/ReactorStuff
    https://github.com/IgnoreLicensesCN/OpenTC4
    https://gregtech.overminddl1.com/downloads/
-   https://www.curseforge.com/minecraft/mc-mods/gravitation-suite/files/all?page=1&pageSize=20&showAlphaFiles=show
    https://github.com/Vexatos/Resonant-Induction-1  https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290980-1-6-2-resonant-induction-universal-electricity }+
 
 

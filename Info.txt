@@ -26,7 +26,7 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
                                                      Fixes                                
 │              IndustrialCraft 2 FE                     │     Advanced Solar Panels       For ic2fe            │        GregTech4 for ic2fe       │                                  │                                  │
 │                │                                      │       │                                              │         │                        │                                  │                                  │
-│10/24/2026 Transformer-gui                             │10.24.2026 molecular.json-count{INT}2147              │                                  │                                  │                                  │
+│10/24/2026 Transformer-gui                             │10.24.2026 molecular.json-count{INT}2147              │    IDSU-tooltip-energy           │                                  │                                  │
 │10/24/2026 Recipes.json - count                        │10.24.2026 Fix Input-Gui-Molecular and Panels         │                                  │                                  │                                  │
 │10/26/2026 53.ogg                                      │10.25.2026 Fix-drops-Avaritia{WorldBreaker} Molecular │                                  │                                  │                                  │
 │10/26/2026 Block/Scanner-∞                             │10.25.2026 Add "INM": "false/true" For INT ITEM       │                                  │                                  │                                  │

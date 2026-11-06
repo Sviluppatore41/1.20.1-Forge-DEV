@@ -14,6 +14,12 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
 
 
 
+
+
+GregTech4FE{CurseForge-24/25/26} for Weihnachten"26"|$Dezemb
+
+
+
 +{ https://github.com/EnderiumSmith/ReactorStuff
    https://github.com/IgnoreLicensesCN/OpenTC4
    https://gregtech.overminddl1.com/downloads/

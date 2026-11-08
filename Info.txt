@@ -1,6 +1,6 @@
 IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         │                                     │ │                      │ │
-        ├── Advanced Solar Panels   Done      │ ├─ Matter Overdrive FE │ ├──Resonant Induction
+        ├── Advanced Solar Panels   Done      │ ├─ Matter Overdrive FE │ ├──
         ├── Gravitation Suite   Done          │ ├─                     │ ├──Xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and 1.5.2 C" Done
         ├── Gravitation Suite Reload  Done    │ ├─                     │ ├─AE2-foxwhitetechnologies/foxiwhitee
         ├── GregTech 4   Januar               │ ├─                     │ ├─MolecularTransformer AE2(ASP)
@@ -22,8 +22,7 @@ GregTech4FE janur star
 
 +{ https://github.com/EnderiumSmith/ReactorStuff
    https://github.com/IgnoreLicensesCN/OpenTC4
-   https://gregtech.overminddl1.com/downloads/
-   https://github.com/Vexatos/Resonant-Induction-1  https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1290980-1-6-2-resonant-induction-universal-electricity }+
+   https://gregtech.overminddl1.com/downloads/ }+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

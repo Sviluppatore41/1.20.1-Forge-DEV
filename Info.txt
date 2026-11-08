@@ -3,7 +3,7 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         ├── Advanced Solar Panels   Done      │ ├─ Matter Overdrive FE │ ├──Resonant Induction
         ├── Gravitation Suite   Done          │ ├─                     │ ├──Xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and 1.5.2 C" Done
         ├── Gravitation Suite Reload  Done    │ ├─                     │ ├─AE2-foxwhitetechnologies/foxiwhitee
-        ├── GregTech 4                        │ ├─                     │ ├─MolecularTransformer AE2(ASP)
+        ├── GregTech 4   Januar               │ ├─                     │ ├─MolecularTransformer AE2(ASP)
         ├── ic2 tablet für reactor {custom}   │ ├─                     │ ├─ 
         ├── Not Enough Machines               │ ├─                     │ ├─Advanced Axtr(Custom IC2 addon) DEP:ASP'IC2
         ├── ReactorStuff                      │ ├─                     │ ├─AE2 ClP (Custom AE2 addon) DEP:AE2'ASP'IC2

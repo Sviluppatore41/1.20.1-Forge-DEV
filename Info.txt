@@ -9,7 +9,7 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         ├── ReactorStuff                      │ ├─                     │ ├─AE2 ClP (Custom AE2 addon) DEP:AE2'ASP'IC2
         ├── LevelStorage                      │ ├─                     │ ├─Addon zum ic2/Musikl und gui-tooltip/ M"1.12.2" 
         ├── ​​ChargePads              Done      │ ├─                     │ ├─Addon ic2 Deepslate for Ore 1.19.2
-        ├── CompactWindmills                  │ ├─                     │ ├─
+        ├── CompactWindmills  Done            │ ├─                     │ ├─
         └── More Electric Tools-only/40%
 
 

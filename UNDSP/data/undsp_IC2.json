@@ -47,11 +47,8 @@
 "silver_ingot/ic2",
 "uranium238/ic2",
 
-
 //DEP IC2
-
 "deepslate_lead_ore/ic2dep",
 "deepslate_tin_ore/ic2dep",
 "deepslate_uranium_ore/ic2dep"
-
 ]

@@ -50,6 +50,6 @@ GregTech4FE janur star
 │11/8/2026 Metal Former(button)                         │                                                      │                                  │                                  │                                  │
 │11/8/2026 Recipes-Ae2                                  │                                                      │                                  │                                  │                                  │
 │11/8/2026 Cable Rech                                   │                                                      │                                  │                                  │                                  │
+│11/11/2026 Furnace Tags                                │                                                      │                                  │                                  │                                  │
 │                                                       │                                                      │                                  │                                  │                                  │
 │                                                       │                                                      │                                  │                                  │                                  │
-│        Furnace Tags                                   │                                                      │                                  │                                  │                                  │

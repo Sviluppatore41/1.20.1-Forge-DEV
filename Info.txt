@@ -52,4 +52,4 @@ GregTech4FE janur star
 │11/8/2026 Cable Rech                                   │                                                      │                                  │                                  │                                  │
 │                                                       │                                                      │                                  │                                  │                                  │
 │                                                       │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
+│        Furnace Tags                                   │                                                      │                                  │                                  │                                  │

@@ -46,6 +46,8 @@
 "lithium_dust/ic2",
 "silver_ingot/ic2",
 "uranium238/ic2",
+"partcircuit/ic2",
+"partcircuitadv/ic2",
 
 //DEP IC2
 "deepslate_lead_ore/ic2dep",

@@ -7,9 +7,9 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         ├── ic2 tablet für reactor {custom}   │ ├─                     │ ├─ 
         ├── Not Enough Machines               │ ├─                     │ ├─Advanced Axtr(Custom IC2 addon) DEP:ASP'IC2
         ├── ReactorStuff                      │ ├─                     │ ├─AE2 ClP (Custom AE2 addon) DEP:AE2'ASP'IC2
-        ├── LevelStorage                      │ ├─                     │ ├─Addon zum ic2/Musikl und gui-tooltip/ M"1.12.2" 
+        ├── LevelStorage                      │ ├─                     │ ├─Addon zum ic2/Musikl und gui-tooltip/ M"1.12.2" Done
         ├── ​​ChargePads              Done      │ ├─                     │ ├─Addon ic2 Deepslate for Ore 1.19.2 Done
-        ├── CompactWindmills  Done            │ ├─                     │ ├─UNDSP-Unif Done
+        ├── CompactWindmills  Done            │ ├─                     │ ├─UNDSP-Unif Done/fix-IE/ASM
         └── More Electric Tools-only/40%
 
 
@@ -29,38 +29,38 @@ GregTech4FE janur star
                                                Public CurseForge / Mods
                                                    10/30/2026➡️➡️➡️➡️➡️ 05.2026 Fixes/CurseF
                                                      Fixes                                
-│              IndustrialCraft 2 FE                     │     Advanced Solar Panels       For ic2fe            │        GregTech4 for ic2fe       │                                  │                                  │
-│                │                                      │       │                                              │         │                        │                                  │                                  │
-│10/24/2026 Transformer-gui                             │10.24.2026 molecular.json-count{INT}2147              │    IDSU-ID/Nickname              │                                  │                                  │
-│10/24/2026 Recipes.json - count                        │10.24.2026 Fix Input-Gui-Molecular and Panels         │                                  │                                  │                                  │
-│10/26/2026 53.ogg                                      │10.25.2026 Fix-drops-Avaritia{WorldBreaker} Molecular │                                  │                                  │                                  │
-│10/26/2026 Block/Scanner-∞                             │10.25.2026 Add "INM": "false/true" For INT ITEM       │                                  │                                  │                                  │
-│10/27/2026 Connect cable/th/eo/ic2,Mm                  │11/05/2026 fix INM for wither skel  [molecular.json]  │                                  │                                  │                                  │
-│10/27/2026 Box /Ender IO-Capacitor Bank                │11/11/2026 Fix-drops Outp 2-S MolecularT              │                                  │                                  │                                  │
-│10/29/2026 Sounds Fix 0/100 Setting minecraft          │                                                      │                                  │                                  │                                  │
-│10/29/2026 Fix/Output/Mech                             │                                                      │                                  │                                  │                                  │
-│11/1/2026 Fix FluidCell/für-JEI                        │                                                      │                                  │                                  │                                  │
-│11/1/2026 Fix FluidCell world                          │                                                      │                                  │                                  │                                  │
-│11/1/2026 render cable(INT)                            │                                                      │                                  │                                  │                                  │
-│11/3/2026 Upgrade-ID ct/jei                            │                                                      │                                  │                                  │                                  │
-│11/4/2026 Cable and mechanism                          │                                                      │                                  │                                  │                                  │
-│11/5/2026 Cable/IC2-VoltageCable                       │                                                      │                                  │                                  │                                  │
-│11/8/2026 Energy O Mat(button)                         │                                                      │                                  │                                  │                                  │
-│11/8/2026 Trade O mat(button)                          │                                                      │                                  │                                  │                                  │
-│11/8/2026 Metal Former(button)                         │                                                      │                                  │                                  │                                  │
-│11/8/2026 Recipes-Ae2                                  │                                                      │                                  │                                  │                                  │
-│11/8/2026 Cable Rech                                   │                                                      │                                  │                                  │                                  │
-│11/11/2026 Furnace Tags                                │                                                      │                                  │                                  │                                  │
-│11/11/2026 CannerBE  crash                             │                                                      │                                  │                                  │                                  │
-│11/11/2026 ReactorBE-Sound                             │                                                      │                                  │                                  │                                  │
-│Wind recipe                                            │                                                      │                                  │                                  │                                  │
-│EnergyBoom[-%]                                         │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
-│                                                       │                                                      │                                  │                                  │                                  │
+│              IndustrialCraft 2 FE                     │     Advanced Solar Panels       For ic2fe            │
+│                │                                      │       │                                              │
+│10/24/2026 Transformer-gui                             │10.24.2026 molecular.json-count{INT}2147              │
+│10/24/2026 Recipes.json - count                        │10.24.2026 Fix Input-Gui-Molecular and Panels         │
+│10/26/2026 53.ogg                                      │10.25.2026 Fix-drops-Avaritia{WorldBreaker} Molecular │
+│10/26/2026 Block/Scanner-∞                             │10.25.2026 Add "INM": "false/true" For INT ITEM       │
+│10/27/2026 Connect cable/th/eo/ic2,Mm                  │11/05/2026 fix INM for wither skel  [molecular.json]  │
+│10/27/2026 Box /Ender IO-Capacitor Bank                │11/11/2026 Fix-drops Outp 2-S MolecularT              │
+│10/29/2026 Sounds Fix 0/100 Setting minecraft          │ ---------------------------------------------------- │
+│10/29/2026 Fix/Output/Mech                             │     CompactWindmills                                 │
+│11/1/2026 Fix FluidCell/für-JEI                        │            │                                         │
+│11/1/2026 Fix FluidCell world                          │11/12/2026 Wind-wrench/UP                             │
+│11/1/2026 render cable(INT)                            │------------------------------------------------------│
+│11/3/2026 Upgrade-ID ct/jei                            │            IC2DEP                                    │
+│11/4/2026 Cable and mechanism                          │            │                                         │
+│11/5/2026 Cable/IC2-VoltageCable                       │11/12/2026 adds ore/raw  and config/GuiTooltip'tr/fe  │
+│11/8/2026 Energy O Mat(button)                         │11/12/2026 adds IconSoundGui/off/on                   │
+│11/8/2026 Trade O mat(button)                          │11/12/2026 adds GuiIconSound/tr/fe                    │
+│11/8/2026 Metal Former(button)                         │                                                      │
+│11/8/2026 Recipes-Ae2                                  │                                                      │
+│11/8/2026 Cable Rech                                   │                                                      │
+│11/11/2026 Furnace Tags                                │                                                      │
+│11/11/2026 CannerBE  crash                             │                                                      │
+│11/11/2026 ReactorBE-Sound                             │                                                      │
+│Wind recipe                                            │                                                      │
+│EnergyBoom[-%]                                         │                                                      │
+│                                                       │                                                      │
+│                                                       │                                                      │
+│                                                       │                                                      │
+│                                                       │                                                      │
+│                                                       │                                                      │
+│                                                       │                                                      │
 
 
 

@@ -53,8 +53,8 @@ GregTech4FE janur star
 │11/11/2026 Furnace Tags                                │                                                      │
 │11/11/2026 CannerBE  crash                             │                                                      │
 │11/11/2026 ReactorBE-Sound                             │                                                      │
-│Wind recipe                                            │                                                      │
-│EnergyBoom[-%]                                         │                                                      │
+│11/12/2026 Wind recipe                                 │                                                      │
+│11/12/2026 EnergyBoom[-%]                              │                                                      │
 │                                                       │                                                      │
 │                                                       │                                                      │
 │                                                       │                                                      │

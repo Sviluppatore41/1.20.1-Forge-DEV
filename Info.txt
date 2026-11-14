@@ -41,6 +41,7 @@ GregTech4FE janur star
 │10/29/2026 Fix/Output/Mech                             │     CompactWindmills                                 │
 │11/1/2026 Fix FluidCell/für-JEI                        │            │                                         │
 │11/1/2026 Fix FluidCell world                          │11/12/2026 Wind-wrench/UP                             │
+│11/14/2026 Key-set                                     │11/14/2026 Gui and bl                                 │
 │11/1/2026 render cable(INT)                            │------------------------------------------------------│
 │11/3/2026 Upgrade-ID ct/jei                            │            IC2DEP                                    │
 │11/4/2026 Cable and mechanism                          │            │                                         │
@@ -55,7 +56,7 @@ GregTech4FE janur star
 │11/11/2026 ReactorBE-Sound                             │                                                      │
 │11/12/2026 Wind recipe                                 │                                                      │
 │11/12/2026 EnergyBoom[-%]                              │                                                      │
-│11/14/2026 Key-set                                     │                                                      │
+│                                                       │                                                      │
 │                                                       │                                                      │
 │                                                       │                                                      │
 │                                                       │                                                      │

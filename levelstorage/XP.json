@@ -1,0 +1,13 @@
+{
+  "capacity": 16384,
+  "xp_per_book": 840,
+  "items": {
+    "minecraft:redstone": 4,
+    "minecraft:quartz": 1,
+    "minecraft:gold_ingot": 16,
+    "minecraft:ender_pearl": 192,
+    "minecraft:glowstone_dust": 8,
+    "minecraft:diamond": 256,
+    "minecraft:nether_star": 8192
+  }
+}

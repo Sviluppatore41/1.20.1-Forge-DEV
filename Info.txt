@@ -12,7 +12,7 @@ IndustrialCraft 2 FE    Done                  │ ETC                    │ ETC
         ├── CompactWindmills  Done            │ ├─                     │ ├─UNDSP-Unif Done/fix-IE/ASM
         └── More Electric Tools-only/40%      │ ├                      │ ├Curios for ic2(DEP)
 
-Curios 
+ 
 
 
 

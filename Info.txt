@@ -58,7 +58,7 @@ GregTech4FE janur star
 │11/12/2026 EnergyBoom[-%]                              │                                                      │
 │11/14/2026 EnergyNet                                   │                                                      │
 │Setting/Key                                            │                                                      │
-│Mekanism Cube- NULL-energy                             │                                                      │
+│Mekanism Cube- NULL-energy     Cable/IC2               │                                                      │
 │                                                       │                                                      │
 │                                                       │                                                      │
 │                                                       │                                                      │

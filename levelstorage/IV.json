@@ -55,5 +55,6 @@
     "minecraft:rotten_flesh": 32,
     "minecraft:dandelion": 16,
     "minecraft:poppy": 16
-  }
+  },
+  "accelerator_iv_per_mb": 1
 }

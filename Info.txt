@@ -1,6 +1,6 @@
 IndustrialCraft 2 FE    Done                  ETC
         │                                     │
-        ├── Advanced Solar Panels   Done      ├─ Matter Overdrive FE
+        ├── Advanced Solar Panels   Done      ├─
         ├── Gravitation Suite   Done          ├──Xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and 1.5.2 C" Done
         ├── Gravitation Suite Reload  Done    ├─AE2-foxwhitetechnologies/foxiwhitee
         ├── GregTech 4   Januar               ├─DartCraft

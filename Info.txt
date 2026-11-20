@@ -9,8 +9,8 @@ IndustrialCraft 2 FE    Done                  ETC
         ├── ReactorStuff                      ├─
         ├── LevelStorage            Done      ├─Addon zum ic2/Musikl und gui-tooltip/ M"1.12.2" Done
         ├── ​​ChargePads              Done      ├─Addon ic2 Deepslate for Ore 1.19.2 Done
-        ├── CompactWindmills  Done            ├─UNDSP-Unif Done/fix-IE/ASM
-        └── More Electric Tools-only/40%      ├─Curios for ic2(DEP)
+        ├── CompactWindmills  Done            ├─UNDSP-Unif Done/fix-IE/ASM Done TEST
+        └── More Electric Tools-only/40%      ├─
 
  
 

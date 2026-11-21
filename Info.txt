@@ -4,7 +4,7 @@ IndustrialCraft 2 FE    Done                  ETC
         ├── Gravitation Suite   Done          ├──Xycraft 1.4.7 "only-crystal-animation*rendering,ore*1 and 1.5.2 C" Done
         ├── Gravitation Suite Reload  Done    ├─AE2-foxwhitetechnologies/foxiwhitee
         ├── GregTech 4   Januar               ├─DartCraft
-        ├── ic2 tablet für reactor {custom}   ├─Matter Overdrive FE
+        ├── ic2 tablet für reactor {custom}   ├─
         ├──                                   ├─FoxEternity-Avar/AE2
         ├── ReactorStuff false                ├─
         ├── LevelStorage Done                 ├─Addon zum ic2/Musikl und gui-tooltip/ M"1.12.2" Done
@@ -17,12 +17,7 @@ IndustrialCraft 2 FE    Done                  ETC
 
 
 GregTech4FE janur star
-
-
-
-+{ https://github.com/EnderiumSmith/ReactorStuff
-   https://github.com/IgnoreLicensesCN/OpenTC4
-   https://gregtech.overminddl1.com/downloads/ }+
+https://gregtech.overminddl1.com/downloads/ 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

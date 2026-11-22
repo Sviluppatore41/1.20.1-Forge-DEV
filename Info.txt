@@ -55,7 +55,7 @@ https://gregtech.overminddl1.com/downloads/
 │11/14/2026 Mekanism Cube- NULL-energy/ Cable/IC2       │                                                      │
 │11/15/2026 Immersive Engineering Cabels=IC2            │                                                      │
 │11/19/2026 Cable -damage Ins                           │                                                      │
-│                                                       │                                                      │
+│11/22/2026 F/V 47, to 47.4.10,                         │                                                      │
 │                                                       │                                                      │
 
 

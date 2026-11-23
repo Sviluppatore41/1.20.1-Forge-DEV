@@ -58,7 +58,7 @@ https://gregtech.overminddl1.com/downloads/
 │11/22/2026 F/V 47, to 47.4.10,                         │                                                      │
 │11/22/2026 Silk drill                                  │                                                      │
 │11/22/2026 Crop Sticks render   
-
+│11/23/2026 Crop Sticks Collision
 
 
 

@@ -5,11 +5,11 @@ IndustrialCraft 2 FE    Done                  ETC
         ├── Gravitation Suite Reload  Done    ├─AE2-foxwhitetechnologies/foxiwhitee
         ├── GregTech 4   Januar               ├─DartCraft
         ├── ic2 tablet für reactor {custom}   ├─
-        ├──                                   ├─FoxEternity-Avar/AE2
+        ├──                                   ├─FoxEternity-Avar/AE2 Done
         ├── ReactorStuff false                ├─
         ├── LevelStorage Done                 ├─Addon zum ic2/Musikl und gui-tooltip/ M"1.12.2" Done
         ├── ​​ChargePads  Done                  ├─Addon ic2 Deepslate for Ore 1.19.2 Done
-        ├── CompactWindmills  Done            ├─UNDSP-Unif Done/fix-IE/ASM Done TEST
+        ├── CompactWindmills  Done            ├─
         └──                                   ├─
 
  
